@@ -1,7 +1,9 @@
+from time import sleep
 import requests
 import os
 import json
 
+from treelib import Tree
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -9,20 +11,50 @@ load_dotenv()
 # export 'BEARER_TOKEN'='<your_bearer_token>'
 
 
-def create_search_url(query: dict, tweet_fields: list):
-    # Tweet fields are adjustable.
-    # Options include:
-    # attachments, author_id, context_annotations,
-    # conversation_id, created_at, entities, geo, id,
-    # in_reply_to_user_id, lang, non_public_metrics, organic_metrics,
-    # possibly_sensitive, promoted_metrics, public_metrics, referenced_tweets,
-    # source, text, and withheld
-    query_string = "".join(str(k) + ":" + str(v) for k, v in query.items())
-    tweet_fields_string = "".join(tweet_fields)
-    url = ("https://api.twitter.com/2/tweets/search/recent?"
-           f"query={query_string}&tweet_fields={tweet_fields_string}")
+def connect_to_endpoint(url, headers):
+    sleep_duration = 1
+    sleep_count = 0
+    response = requests.request("GET", url, headers=headers)
+    while response.text == 'Rate limit exceeded\n':
+        print(sleep_count)
+        sleep(sleep_duration * (2 ** sleep_count))
+        sleep_count += 1
+        response = requests.request("GET", url, headers=headers)
+    if response.status_code != 200:
+        raise Exception(response.status_code, response.text)
+    return response.json()
 
-    return url
+
+def get_tweet_json(ids, tweet_fields, headers):
+    url = ("https://api.twitter.com/2/tweets?"
+           f"ids={ids}&tweet.fields={tweet_fields}")
+    json_response = connect_to_endpoint(url, headers)
+    return json_response
+
+
+def get_search_json(query, tweet_fields, headers):
+    query_string = "".join(str(k) + ":" + str(v) for k, v in query.items())
+    tweet_fields_string = ",".join(tweet_fields)
+    max_results = 10
+    url = ("https://api.twitter.com/2/tweets/search/recent?"
+           f"query={query_string}&tweet.fields={tweet_fields_string}&max_results={max_results}")
+    json_response = connect_to_endpoint(url, headers)
+
+    next_token = json_response["meta"]["next_token"]
+    data = json_response["data"]
+    
+    while next_token != "0":
+        url = ("https://api.twitter.com/2/tweets/search/recent?"
+           f"query={query_string}&tweet.fields={tweet_fields_string}&next_token={next_token}&max_results={max_results}")
+        next_response = connect_to_endpoint(url, headers)
+        try:
+            next_token = next_response["meta"]["next_token"]
+        except KeyError:
+            print(next_response)
+        
+        data.extend(next_response["data"])
+
+    return {"data": data}
 
 
 def create_headers():
@@ -31,21 +63,67 @@ def create_headers():
     return headers
 
 
-def connect_to_endpoint(url, headers):
-    response = requests.request("GET", url, headers=headers)
-    print(response.status_code)
-    if response.status_code != 200:
-        raise Exception(response.status_code, response.text)
-    return response.json()
+def visualize(tweets):
+    #  Sort the tweets
+    tweets.sort(key=lambda t: t["created_at"])
+
+    #  Tree Structure
+    tree = Tree()
+
+    #  First Parent is the root
+    rootID = tweets[0]["referenced_tweets"][0]["id"]
+    tree.create_node(rootID, identifier=rootID, data="root")
+
+    #  Load the Tweets into a Tree Structure
+    for i, tweet in enumerate(tweets):
+        print(i)
+        tweetID = tweet["id"]
+        parentID = tweet["referenced_tweets"][0]["id"]
+        tree.create_node(tweetID, identifier=tweetID, data=tweet, parent=parentID)
+
+    #  Display the Tree
+    tree.show()
 
 
 def main():
-    query = {"conversation_id": conversation_id}
-    tweet_fields = ["author_id", "created_at", "in_reply_to_user_id"]
-    url = create_search_url(query, tweet_fields)
     headers = create_headers()
-    json_response = connect_to_endpoint(url, headers)
-    print(json.dumps(json_response, indent=4, sort_keys=True))
+    
+    tweet_id = input("Tweet ID: ")
+    # You can adjust ids to include a single Tweets.
+    # Or you can add to up to 100 comma-separated IDs
+    tweet_fields = "conversation_id"
+    # Tweet fields are adjustable.
+    # Options include:
+    # attachments, author_id, context_annotations,
+    # conversation_id, created_at, entities, geo, id,
+    # in_reply_to_user_id, lang, non_public_metrics, organic_metrics,
+    # possibly_sensitive, promoted_metrics, public_metrics, referenced_tweets,
+    # source, text, and withheld
+    tweet_json_response = get_tweet_json(tweet_id, tweet_fields, headers)
+    print(tweet_json_response)
+
+    conversation_id = tweet_json_response["data"][0]["conversation_id"]
+
+    query = {"conversation_id": conversation_id}
+    tweet_fields = ["author_id", "created_at", "in_reply_to_user_id", "referenced_tweets"]
+    # Tweet fields are adjustable.
+    # Options include:
+    # attachments, author_id, context_annotations,
+    # conversation_id, created_at, entities, geo, id,
+    # in_reply_to_user_id, lang, non_public_metrics, organic_metrics,
+    # possibly_sensitive, promoted_metrics, public_metrics, referenced_tweets,
+    # source, text, and withheld
+    search_json_response = get_search_json(query, tweet_fields, headers)
+    
+    serialized_json = json.dumps(search_json_response, indent=4, sort_keys=True)
+    print(serialized_json)
+
+    with open('elon_tweet.json', 'w') as f:
+        f.writelines(serialized_json)
+
+    #print(serialized_json)
+    tweets = search_json_response["data"]
+    visualize(tweets)
 
 
 if __name__ == "__main__":
