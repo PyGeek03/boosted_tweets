@@ -22,8 +22,9 @@ def visualize(tweets):
 
     tree.show()
 
-
-with open("elon_tweet.json", 'r') as f:
+#json_file = "elon_tweet.json"
+json_file = "twarc1_output.json"
+with open(json_file, 'r') as f:
     data = json.load(f)
 tweets = data["data"]
 users = set(tweet["author_id"] for tweet in tweets)

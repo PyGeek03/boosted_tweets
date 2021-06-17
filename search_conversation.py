@@ -13,7 +13,7 @@ load_dotenv()
 
 def connect_to_endpoint(url, headers):
     response = requests.request("GET", url, headers=headers)
-    if response.text == 'Rate limit exceeded\n':
+    if response.status_code == 429 or response.text == 'Rate limit exceeded\n':
         reset_time = int(response.headers["x-rate-limit-reset"])
         sleep_time = max(0, reset_time - int(time.time()) + 1)
         print(f'Sleep for {sleep_time} seconds')
