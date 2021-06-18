@@ -12,7 +12,7 @@ access_token_secret = os.environ.get("ACCESS_TOKEN_SECRET")
 client1 = twarc.Twarc(consumer_key, consumer_secret, access_token, access_token_secret)
 
 #tweet_ids = ['1404353357469212673', '1404353618518499329']
-tweet_ids = ['1405295014327037956']
+tweet_ids = ['1405555642019074050']
 data = {'data': list(client1.retweets(tweet_ids))}  # get 100 most recent retweets
 
 serialized_json = json.dumps(data,
