@@ -7,6 +7,7 @@ A set of scripts being developed with the goal to collect a dataset of viral twe
 ```
 $ pip install -r requirements.txt
 ```
+3. Sign up for access to Twitter API and Botometer API
 
 ## Workflow:
 - Find a viral tweets, possibly by finding trending topics (using `get_trends_twarc1.py`) and then searching for related tweets (using `get_top_trending_tweets_twarc1.py`)
