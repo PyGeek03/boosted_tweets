@@ -23,7 +23,13 @@ bom = botometer.Botometer(wait_on_ratelimit=True,
 # result = bom.check_account(1548959833)
 
 # Check a sequence of accounts
-accounts = ["1312662813106724864"]
+#accounts = ["1312662813106724864"]
+conversation_json_file = "lex_tweet.json"
+with open(conversation_json_file, 'r') as f:
+    data = json.load(f)
+tweets = data["data"]
+accounts = set(tweet["author_id"] for tweet in tweets)  # Twitter API v2
+
 botometer_output = {screen_name: result for screen_name, result in bom.check_accounts_in(accounts)}
 serialized_json = json.dumps(botometer_output,
                              indent=4,
