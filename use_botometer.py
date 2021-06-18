@@ -29,11 +29,15 @@ bom = botometer.Botometer(wait_on_ratelimit=True,
 #conversation_json_file = "schumer_tweet-full_conversation-1405321025861165060.json"
 
 parser = argparse.ArgumentParser(
-    usage="%(prog)s [FILE]...",
     description='Use Botometer API to check new accounts.'
-    )
+)
 parser.add_argument('conversation_files', metavar='[FILE]', type=str, nargs='+',
-                    help='one or more json files consisting of the whole conversation associated with a Tweet')
+                    help=("one or more json files, each file consisting of "
+                          "the whole conversation associated with a Tweet")
+)
+
+parser.add_argument('--dry', dest='dry_run', action='store_true',
+                    help='make a dry run (without using the API)')
 
 args = parser.parse_args()
 
@@ -51,15 +55,23 @@ with open(output_file, 'r') as f:
 prev_accounts = set(all_output)
 
 new_accounts = accounts - prev_accounts
-if len(new_accounts) > 2000:  # Botometer API's free daily limit
-    new_accounts = set(list(new_accounts)[:2000])
-new_output = {screen_name: result for screen_name, result in bom.check_accounts_in(new_accounts)}
-all_output.update(new_output)
 
-serialized_json = json.dumps(all_output,
-                             indent=4,
-                             sort_keys=True)
-print(serialized_json)
-print(f"Total num. of accounts checked: {len(all_output)}")
-with open(output_file, 'w') as f:
-    f.writelines(serialized_json)
+if args.dry_run:
+    print(new_accounts)
+    print(len(new_accounts))
+else:
+    if len(new_accounts) > 2000:  # Botometer API's free daily limit
+        new_accounts = set(list(new_accounts)[:2000])
+
+    new_output = {screen_name: result for screen_name, result in bom.check_accounts_in(new_accounts)}
+    [print(f"{k}: {v}") for k, v in new_output.items()]
+    print(f"Num. of new accounts added: {len(new_accounts)}")
+    all_output.update(new_output)
+    serialized_json = json.dumps(all_output,
+                                indent=4,
+                                sort_keys=True)
+
+    print(f"Total num. of accounts checked: {len(all_output)}")
+    
+    with open(output_file, 'w') as f:
+        f.writelines(serialized_json)
