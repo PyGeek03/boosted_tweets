@@ -20,5 +20,7 @@ serialized_json = json.dumps(data,
                              sort_keys=True)
 print(serialized_json)
 filename = input("Filename to output to: ")
+if filename == "":
+    filename = "retweets_cache"
 with open(f'{filename}.json', 'w') as f:
     f.writelines(serialized_json)

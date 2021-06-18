@@ -29,5 +29,7 @@ serialized_json = json.dumps(data,
                              sort_keys=True)
 print(serialized_json)
 filename = input("Filename to output to: ")
+if filename == "":
+    filename = "trends_cache"
 with open(f'{filename}.json', 'w') as f:
     f.writelines(serialized_json)
