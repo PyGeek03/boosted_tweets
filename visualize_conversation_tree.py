@@ -22,7 +22,7 @@ def visualize_api2(tweets):
 
     tree.show()
 
-conversation_json_file = "lex_tweet-full_conversation.json"
+conversation_json_file = "elon_tweet-full_conversation_(retweets_&_replies)-1404353618518499329.json"
 with open(conversation_json_file, 'r') as f:
     data = json.load(f)
 tweets = data["data"]
