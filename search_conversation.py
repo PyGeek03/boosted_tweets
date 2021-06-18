@@ -61,8 +61,6 @@ def create_headers():
 def visualize(tweets):
     tree = Tree()
 
-    # after sorting by timestamps, first tweet would be the root
-    tweets.sort(key=lambda t: t["created_at"])
     root_tweet = tweets[0]
     rootID = root_tweet["referenced_tweets"][0]["id"]
     tree.create_node(rootID, identifier=rootID, data="root")
@@ -109,13 +107,15 @@ def main():
     # possibly_sensitive, promoted_metrics, public_metrics, referenced_tweets,
     # source, text, and withheld
     search_json_response = get_search_json(query, tweet_fields, headers)
-    search_json_response["data"].sort(key=lambda t: t["created_at"])
+    search_json_response["data"].sort(key=lambda t: t["id"])
 
     serialized_json = json.dumps(search_json_response,
                                  indent=4,
                                  sort_keys=True)
     print(serialized_json)
     filename = input("Filename to write to: ")
+    if filename == "":
+        filename = "conversation_cache"
     with open(f'{filename}.json', 'w') as f:
         f.writelines(serialized_json)
 
