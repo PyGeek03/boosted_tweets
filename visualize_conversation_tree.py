@@ -4,9 +4,10 @@ import treelib.exceptions
 import argparse
 
 def tag_acc_if_bot(acc, checked_accounts):
-    if acc not in checked_accounts:
+    if acc not in checked_accounts or "error" in checked_accounts[acc]:
         return acc
     botometer_output = checked_accounts[acc]
+    username = botometer_output["user"]["user_data"]["screen_name"]
     majority_lang = botometer_output["user"]["majority_lang"]
     cap_scores = botometer_output["cap"]
     score = cap_scores["english"] if majority_lang == "en" \
@@ -14,8 +15,8 @@ def tag_acc_if_bot(acc, checked_accounts):
     probability = int(score * 100)
     threshold = 0
     if probability > threshold:
-        return f'{acc} (bot: {probability}% probability)'
-    return acc
+        return f'{username} (bot: {probability}% probability)'
+    return username
         
 
 def visualize_api2(tweets, checked_accounts):
@@ -71,11 +72,14 @@ def visualize_conversation(conversation_json_file):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
-        usage="%(prog)s [FILE]...",
-        description='Visualise the tree of the conversation, whose root is the original tweet and other nodes are retweets and replies'
-        )
+        description=("Visualise the tree of the conversation,"
+                     "whose root is the original tweet's author" 
+                     "and other nodes are the retweeters and authors of replies")
+    )
     parser.add_argument('conversation_files', metavar='[FILE]', type=str, nargs='+',
-                        help='one or more json files consisting of the whole conversation associated with a Tweet')
+                        help=("one or more json files, each file consisting of"
+                              "the whole conversation associated with a Tweet")
+    )
 
     args = parser.parse_args()
     for filename in args.conversation_files:
