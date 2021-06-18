@@ -109,6 +109,7 @@ def main():
     # possibly_sensitive, promoted_metrics, public_metrics, referenced_tweets,
     # source, text, and withheld
     search_json_response = get_search_json(query, tweet_fields, headers)
+    search_json_response["data"].sort(key=lambda t: t["created_at"])
 
     serialized_json = json.dumps(search_json_response,
                                  indent=4,
