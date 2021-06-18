@@ -78,7 +78,7 @@
 ├── 110833143
 ├── 1108387209818923008
 ├── 110891609
-│   └── 968002912935923712 (bot: 33% probability)
+│   └── Sleeping_Man79 (bot: 33% probability)
 ├── 1114148849805926400
 ├── 1116361825715507203
 ├── 1116434731468505088
@@ -291,7 +291,7 @@
 │   ├── 60981117
 │   ├── 904415341345873920
 │   │   └── 4540594161
-│   └── 971491039138734081 (bot: 81% probability)
+│   └── iroc158 (bot: 81% probability)
 ├── 1301431975702654978
 ├── 1301935010065256448
 ├── 1302700905918271489
@@ -337,7 +337,7 @@
 │   ├── 520557867
 │   │   └── 58934797
 │   ├── 790500228
-│   └── 971491039138734081 (bot: 81% probability)
+│   └── iroc158 (bot: 81% probability)
 ├── 1311844721094844417
 ├── 1312436053530218498
 ├── 1313137383609528326
@@ -599,7 +599,7 @@
 ├── 160276465
 ├── 1604898210
 │   ├── 35777314
-│   └── 968002912935923712 (bot: 33% probability)
+│   └── Sleeping_Man79 (bot: 33% probability)
 ├── 16075670
 ├── 160920564
 ├── 16195834
@@ -613,6 +613,7 @@
 ├── 164721933
 ├── 16650478
 ├── 16678174
+├── 166ben (bot: 80% probability)
 ├── 17072387
 ├── 1712611014
 ├── 17147191
@@ -630,7 +631,7 @@
 │   │   └── 1429173260
 │   ├── 2552643566
 │   │   └── 1360721322406387714
-│   └── 971491039138734081 (bot: 81% probability)
+│   └── iroc158 (bot: 81% probability)
 ├── 1714841
 ├── 1724100720
 ├── 174980242
@@ -809,7 +810,7 @@
 ├── 322327385
 ├── 3229308795
 ├── 32467167
-│   └── 967200458937982977 (bot: 71% probability)
+│   └── HoevenMaggie (bot: 71% probability)
 ├── 3248076027
 ├── 32502639
 ├── 32523341
@@ -877,7 +878,7 @@
 │   │   ├── 1354494797751480325
 │   │   ├── 1397227802336940040
 │   │   ├── 742785162807808000
-│   │   └── 991327176732696576 (bot: 47% probability)
+│   │   └── J_Mayumi_ (bot: 47% probability)
 │   └── 58934797
 ├── 3856576054
 ├── 39044600
@@ -1002,6 +1003,12 @@
 ├── 68189622
 ├── 700867680329453568
 ├── 70282412
+├── 702Television (bot: 80% probability)
+├── 702Television (bot: 80% probability)
+├── 702Television (bot: 80% probability)
+├── 702Television (bot: 80% probability)
+├── 702Television (bot: 80% probability)
+├── 702Television (bot: 80% probability)
 ├── 705025360937680898
 ├── 706131775823745024
 ├── 708469711411908608
@@ -1189,49 +1196,10 @@
 ├── 965342328289345536
 ├── 965546431
 ├── 965691112479514624
-├── 967200458937982977 (bot: 71% probability)
-├── 968675821 (bot: 81% probability)
-├── 970445068841533443 (bot: 80% probability)
-├── 975939050648596480 (bot: 83% probability)
-├── 977622906900328448 (bot: 50% probability)
-├── 979455082109353984 (bot: 50% probability)
-├── 984480383428382722 (bot: 64% probability)
-├── 984657818 (bot: 80% probability)
-├── 987597486 (bot: 41% probability)
-├── 989098940 (bot: 60% probability)
-├── 990024656030756864 (bot: 22% probability)
-├── 991984970578083840 (bot: 80% probability)
-├── 991984970578083840 (bot: 80% probability)
-├── 991984970578083840 (bot: 80% probability)
-├── 991984970578083840 (bot: 80% probability)
-├── 991984970578083840 (bot: 80% probability)
-├── 991984970578083840 (bot: 80% probability)
-├── 994383230 (bot: 64% probability)
-├── 997264322500939778 (bot: 30% probability)
-├── 998332081657794560 (bot: 93% probability)
-├── 999823991698329600 (bot: 81% probability)
-│   ├── 1187777451209961473
-│   ├── 1240098344556347392
-│   ├── 1378539232143142914
-│   ├── 3177200475
-│   ├── 39044600
-│   ├── 705920935
-│   │   ├── 999823991698329600 (bot: 81% probability)
-│   │   ├── 999823991698329600 (bot: 81% probability)
-│   │   └── 999823991698329600 (bot: 81% probability)
-│   └── 814676862286827520
-│       ├── 1402075069715730433
-│       ├── 175928410
-│       │   ├── 561714058
-│       │   └── 999823991698329600 (bot: 81% probability)
-│       ├── 4720227553
-│       │   ├── 999823991698329600 (bot: 81% probability)
-│       │   ├── 999823991698329600 (bot: 81% probability)
-│       │   ├── 999823991698329600 (bot: 81% probability)
-│       │   └── 999823991698329600 (bot: 81% probability)
-│       │       └── 999823991698329600 (bot: 81% probability)
-│       │           └── 999823991698329600 (bot: 81% probability)
-│       └── 999823991698329600 (bot: 81% probability)
+├── A1ienFN (bot: 22% probability)
+├── BeachMan21 (bot: 64% probability)
+├── Carolineswhite3 (bot: 64% probability)
+├── DannyHulse3 (bot: 80% probability)
 ├── Deleted tweet
 │   └── 2848259559
 ├── Deleted tweet
@@ -1252,5 +1220,37 @@
 │   └── 1345135061138460673
 ├── Deleted tweet
 │   └── 2273115470
-└── Deleted tweet
-    └── 1338060803736559616
+├── Deleted tweet
+│   └── 1338060803736559616
+├── DougDugger1 (bot: 60% probability)
+├── HoevenMaggie (bot: 71% probability)
+├── KentVogl (bot: 30% probability)
+├── Peacekeeper876 (bot: 81% probability)
+│   ├── 1187777451209961473
+│   ├── 1240098344556347392
+│   ├── 1378539232143142914
+│   ├── 3177200475
+│   ├── 39044600
+│   ├── 705920935
+│   │   ├── Peacekeeper876 (bot: 81% probability)
+│   │   ├── Peacekeeper876 (bot: 81% probability)
+│   │   └── Peacekeeper876 (bot: 81% probability)
+│   └── 814676862286827520
+│       ├── 1402075069715730433
+│       ├── 175928410
+│       │   ├── 561714058
+│       │   └── Peacekeeper876 (bot: 81% probability)
+│       ├── 4720227553
+│       │   ├── Peacekeeper876 (bot: 81% probability)
+│       │   ├── Peacekeeper876 (bot: 81% probability)
+│       │   ├── Peacekeeper876 (bot: 81% probability)
+│       │   └── Peacekeeper876 (bot: 81% probability)
+│       │       └── Peacekeeper876 (bot: 81% probability)
+│       │           └── Peacekeeper876 (bot: 81% probability)
+│       └── Peacekeeper876 (bot: 81% probability)
+├── Potterygirl63 (bot: 50% probability)
+├── RogReads41 (bot: 50% probability)
+├── StacyDAlessand3 (bot: 93% probability)
+├── dennis_slusser (bot: 83% probability)
+├── lcatboonies (bot: 81% probability)
+└── tunedhuman (bot: 41% probability)

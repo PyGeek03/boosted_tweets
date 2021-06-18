@@ -7419,6 +7419,59 @@
             }
         }
     },
+    "1207407956930658304": {
+        "cap": {
+            "english": 0.7971612475312038,
+            "universal": 0.8054210927612583
+        },
+        "display_scores": {
+            "english": {
+                "astroturf": 0.2,
+                "fake_follower": 0.6,
+                "financial": 0.0,
+                "other": 2.2,
+                "overall": 2.5,
+                "self_declared": 0.5,
+                "spammer": 1.2
+            },
+            "universal": {
+                "astroturf": 0.4,
+                "fake_follower": 0.8,
+                "financial": 0.0,
+                "other": 1.8,
+                "overall": 2.7,
+                "self_declared": 0.2,
+                "spammer": 1.9
+            }
+        },
+        "raw_scores": {
+            "english": {
+                "astroturf": 0.03,
+                "fake_follower": 0.12,
+                "financial": 0.0,
+                "other": 0.44,
+                "overall": 0.5,
+                "self_declared": 0.1,
+                "spammer": 0.25
+            },
+            "universal": {
+                "astroturf": 0.09,
+                "fake_follower": 0.15,
+                "financial": 0.0,
+                "other": 0.36,
+                "overall": 0.54,
+                "self_declared": 0.04,
+                "spammer": 0.38
+            }
+        },
+        "user": {
+            "majority_lang": "en",
+            "user_data": {
+                "id_str": "1207407956930658304",
+                "screen_name": "iTruth84"
+            }
+        }
+    },
     "1207664582212276224": {
         "cap": {
             "english": 0.6763619064808265,
@@ -38795,6 +38848,9 @@
             }
         }
     },
+    "265150031": {
+        "error": "TweepError: Not authorized."
+    },
     "2680330532": {
         "cap": {
             "english": 0.5539725719744064,
@@ -44834,6 +44890,59 @@
             "user_data": {
                 "id_str": "4255331417",
                 "screen_name": "Qvantatitive"
+            }
+        }
+    },
+    "427089628": {
+        "cap": {
+            "english": 0.3912159239072283,
+            "universal": 0.7437205366967014
+        },
+        "display_scores": {
+            "english": {
+                "astroturf": 0.2,
+                "fake_follower": 0.2,
+                "financial": 0.0,
+                "other": 0.7,
+                "overall": 0.4,
+                "self_declared": 0.0,
+                "spammer": 0.0
+            },
+            "universal": {
+                "astroturf": 0.2,
+                "fake_follower": 0.0,
+                "financial": 0.0,
+                "other": 1.6,
+                "overall": 1.2,
+                "self_declared": 0.0,
+                "spammer": 0.0
+            }
+        },
+        "raw_scores": {
+            "english": {
+                "astroturf": 0.03,
+                "fake_follower": 0.03,
+                "financial": 0.0,
+                "other": 0.14,
+                "overall": 0.07,
+                "self_declared": 0.01,
+                "spammer": 0.0
+            },
+            "universal": {
+                "astroturf": 0.05,
+                "fake_follower": 0.01,
+                "financial": 0.0,
+                "other": 0.32,
+                "overall": 0.23,
+                "self_declared": 0.01,
+                "spammer": 0.0
+            }
+        },
+        "user": {
+            "majority_lang": "en",
+            "user_data": {
+                "id_str": "427089628",
+                "screen_name": "lexfridman"
             }
         }
     },
