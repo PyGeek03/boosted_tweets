@@ -1,0 +1,131 @@
+[
+    {
+        "author_id": "3037892906",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Named people in the world like Nelson Mandela",
+                    "id": "10",
+                    "name": "Person"
+                },
+                "entity": {
+                    "description": "BBC journalist and broadcaster, chairman of Press Holdings Media Group, whose titles include The Spectator, and the ITP Media Group.",
+                    "id": "1148590041574203392",
+                    "name": "Andrew Neil"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Brands and Companies",
+                    "id": "47",
+                    "name": "Brand"
+                },
+                "entity": {
+                    "id": "1404464853431906309",
+                    "name": "GB News"
+                }
+            },
+            {
+                "domain": {
+                    "description": "A journalist like 'Anderson Cooper'",
+                    "id": "94",
+                    "name": "Journalist"
+                },
+                "entity": {
+                    "description": "BBC journalist and broadcaster, chairman of Press Holdings Media Group, whose titles include The Spectator, and the ITP Media Group.",
+                    "id": "1148590041574203392",
+                    "name": "Andrew Neil"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Top level entities that describe a Brands industry",
+                    "id": "45",
+                    "name": "Brand Vertical"
+                },
+                "entity": {
+                    "id": "781974596706635776",
+                    "name": "Retail"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                    "id": "46",
+                    "name": "Brand Category"
+                },
+                "entity": {
+                    "id": "783350882985385984",
+                    "name": "Home"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Brands and Companies",
+                    "id": "47",
+                    "name": "Brand"
+                },
+                "entity": {
+                    "id": "10026951194",
+                    "name": "IKEA"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Top level interests and hobbies groupings, like Food or Travel",
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical"
+                },
+                "entity": {
+                    "description": "Home and garden",
+                    "id": "864911475436957696",
+                    "name": "Home and garden"
+                }
+            }
+        ],
+        "conversation_id": "1405065523663183876",
+        "created_at": "2021-06-16T07:31:40.000Z",
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Paris",
+                    "probability": 0.3628,
+                    "start": 2,
+                    "type": "Place"
+                },
+                {
+                    "end": 27,
+                    "normalized_text": "IKEA",
+                    "probability": 0.5279,
+                    "start": 24,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 166,
+                    "start": 159,
+                    "username": "GBNEWS"
+                },
+                {
+                    "end": 220,
+                    "start": 213,
+                    "username": "afneil"
+                }
+            ]
+        },
+        "id": "1405065523663183876",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 2621,
+            "quote_count": 38,
+            "reply_count": 127,
+            "retweet_count": 642
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "text": "A Paris court has fined IKEA \u20ac1million \nfor spying on their staff and customers. That's the same company who announced they would would no longer advertise on @GBNEWS due to their anti-woke coverage. My advise to @afneil; reverse the process and ban dodgy advertisers."
+    }
+]
