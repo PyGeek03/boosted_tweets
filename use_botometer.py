@@ -39,6 +39,10 @@ parser.add_argument('conversation_files', metavar='[FILE]', type=str, nargs='+',
 parser.add_argument('--dry', dest='dry_run', action='store_true',
                     help='make a dry run (without using the API)')
 
+parser.add_argument('--max-calls', dest='max_calls', type=int, default=2000,
+                        help=("maximum number of Botometer API calls "
+                              "(default: 2000, which is Botometer API's free daily limit)"))
+
 args = parser.parse_args()
 
 accounts = set()
@@ -55,14 +59,13 @@ with open(output_file, 'r') as f:
 prev_accounts = set(all_output)
 
 new_accounts = accounts - prev_accounts
+if len(new_accounts) > args.max_calls:
+    new_accounts = set(list(new_accounts)[:args.max_calls])
 
 if args.dry_run:
     print(new_accounts)
     print(len(new_accounts))
 else:
-    if len(new_accounts) > 2000:  # Botometer API's free daily limit
-        new_accounts = set(list(new_accounts)[:2000])
-
     new_output = {screen_name: result for screen_name, result in bom.check_accounts_in(new_accounts)}
     [print(f"{k}: {v}") for k, v in new_output.items()]
     print(f"Num. of new accounts added: {len(new_accounts)}")
