@@ -1,6 +1,6 @@
 SenSchumer
 ├── (Deleted tweet)
-│   └── _LastStand_
+│   └── _LastStand_ (bot: 83% probability)
 ├── (Deleted tweet)
 │   └── ThatABoy10
 ├── (Deleted tweet)
@@ -18,24 +18,24 @@ SenSchumer
 ├── (Deleted tweet)
 │   └── TEck97818419
 ├── (Deleted tweet)
-│   └── angieesslinger
+│   └── angieesslinger (bot: 82% probability)
 ├── (Deleted tweet)
 │   └── PORTIA_Snt
 ├── 166ben
 ├── 1prouddem
-├── 1stClassVeteran
+├── 1stClassVeteran (bot: 84% probability)
 │   ├── Jwb52z
 │   └── Redcarol5
 ├── 2014gman
 ├── 2020Awakened
 ├── 23dwayne
-├── 2heaviland
+├── 2heaviland (bot: 85% probability)
 ├── 321549real
 ├── 402_2823
 ├── 4mytruth_
 ├── 4sutq8
 ├── 4twentytwo__
-├── 69Maint
+├── 69Maint (bot: 89% probability)
 ├── 702Television
 ├── 702Television
 ├── 702Television
@@ -44,7 +44,7 @@ SenSchumer
 ├── 702Television
 ├── 808bakatan
 ├── 8_girl4
-├── 98frfg
+├── 98frfg (bot: 83% probability)
 ├── A1ienFN
 ├── ACelentano_
 ├── ADifferentCat
@@ -77,7 +77,7 @@ SenSchumer
 ├── Angela58282267
 ├── AnnRing16
 ├── AnnaBanana59
-├── AnnaFlowersPI
+├── AnnaFlowersPI (bot: 81% probability)
 ├── Annette2233
 ├── Anthony14474179
 ├── AranaEthan
@@ -100,7 +100,7 @@ SenSchumer
 ├── Beckyisfree2016
 ├── BehnazAhmadi
 ├── Bertilak3
-├── BidenChinaasset
+├── BidenChinaasset (bot: 81% probability)
 ├── BiggMacFan
 ├── BiggMacFan
 ├── BillWrtv2021
@@ -113,7 +113,7 @@ SenSchumer
 ├── Breuer1950
 ├── BrianSutch
 ├── BrickmanInGA
-├── BronMerk
+├── BronMerk (bot: 81% probability)
 ├── Brookly88259685
 ├── CER_52
 ├── CJOB888
@@ -123,11 +123,11 @@ SenSchumer
 ├── Caerage
 │   ├── DcircleF
 │   ├── EddieBa17337465
-│   ├── Retrievals1
+│   ├── Retrievals1 (bot: 81% probability)
 │   │   └── Caerage
-│   │       └── Retrievals1
+│   │       └── Retrievals1 (bot: 81% probability)
 │   │           └── Caerage
-│   │               └── Retrievals1
+│   │               └── Retrievals1 (bot: 81% probability)
 │   │                   └── Caerage
 │   └── aydinke
 ├── CanukCurious
@@ -144,7 +144,7 @@ SenSchumer
 ├── CindyTakaht
 ├── Cinna888
 ├── ClaudiaMonet67
-├── ClayreInTucson
+├── ClayreInTucson (bot: 81% probability)
 │   └── Michael30451327
 ├── CleanAirMoms
 │   └── GLJ02497614
@@ -160,18 +160,18 @@ SenSchumer
 ├── CrystalWillow13
 │   ├── TheRev92020112
 │   └── dyouts
-├── CubnKira
+├── CubnKira (bot: 81% probability)
 ├── CurmudgeonCD21
 ├── DFog22
-├── DTHutson
+├── DTHutson (bot: 84% probability)
 ├── DTITranslation
 ├── DTincville
 ├── DaPianoMan
 ├── DadaMmc
 ├── DamonFourman
-├── Dana59226229
-├── DanielDHogan
-├── Danjacobsen12
+├── Dana59226229 (bot: 81% probability)
+├── DanielDHogan (bot: 81% probability)
+├── Danjacobsen12 (bot: 85% probability)
 ├── DannyHulse3
 ├── DavidGmeh
 ├── DavidLeflet
@@ -184,11 +184,11 @@ SenSchumer
 ├── DebateMastery
 ├── DeleteFacebook6
 ├── DeltaEchoKilo
-├── DemocratCali
-├── DemocratCali
-├── DemocratCali
+├── DemocratCali (bot: 89% probability)
+├── DemocratCali (bot: 89% probability)
+├── DemocratCali (bot: 89% probability)
 ├── DemocratJoan
-├── DesaroJoe
+├── DesaroJoe (bot: 82% probability)
 ├── DesertguySteve
 ├── Desi1950
 ├── DevidReyan (bot: 92% probability)
@@ -199,24 +199,24 @@ SenSchumer
 ├── Dion_Dixon_99
 ├── DirtdogKathy
 ├── Disenfr17506191
-├── Dixie202021
+├── Dixie202021 (bot: 83% probability)
 │   └── lauraand3js
 ├── Dixiean84503837
 ├── DogmaStrong
 ├── DonCSage
-├── DonnellyMadge
+├── DonnellyMadge (bot: 89% probability)
 ├── DougDugger1
 ├── Dwett78
 ├── DwightJetson
-├── EchoAnimal18
-│   └── EchoAnimal18
-├── EdBraiman
-├── ElkeHollings
+├── EchoAnimal18 (bot: 81% probability)
+│   └── EchoAnimal18 (bot: 81% probability)
+├── EdBraiman (bot: 81% probability)
+├── ElkeHollings (bot: 86% probability)
 ├── EllieGoldsmith6
 ├── EmekaNwachukw12
 ├── Emily00073656
 ├── EricBlair1984_
-├── EricExtempore
+├── EricExtempore (bot: 85% probability)
 ├── ErnieHill18
 ├── EstelaSoperanes
 ├── EstelaSoperanes
@@ -235,23 +235,23 @@ SenSchumer
 ├── FanDdm
 ├── Faseketball
 ├── Freckle18254846
-├── FredCam38849217
-├── FredCam38849217
+├── FredCam38849217 (bot: 82% probability)
+├── FredCam38849217 (bot: 82% probability)
 ├── GLJ02497614
 ├── GLeeRoberts1
 ├── GLizTX1
 ├── GObs2024
 ├── GTHOMSE
-├── GaryCravens9
-├── GeeWayne6
+├── GaryCravens9 (bot: 82% probability)
+├── GeeWayne6 (bot: 81% probability)
 ├── GeekCollage
-├── GeorgiKaloyan
+├── GeorgiKaloyan (bot: 82% probability)
 ├── GerriMuccigros1
 ├── GerryKCGirl
 ├── GetRealEcoGreen
 ├── Getorgbk
 │   ├── arizman2
-│   └── s_hanna1
+│   └── s_hanna1 (bot: 87% probability)
 ├── Gfav18
 ├── Gildenstern2
 ├── GlowatskiRobin
@@ -271,43 +271,43 @@ SenSchumer
 │   └── HalaAlkabalan
 ├── Hangman01872131
 ├── HappyArt123
-├── HarryTheCop
+├── HarryTheCop (bot: 85% probability)
 ├── Hathaway172
 ├── HaverOfDrinkHat
-├── Hayleyoo1
+├── Hayleyoo1 (bot: 89% probability)
 ├── Heather43831009
 ├── HelenHarberts
 ├── Her_Ratness
 ├── Herbfarmgrandma
-├── HeyJudejo28
+├── HeyJudejo28 (bot: 83% probability)
 ├── HiDesertgolf
-├── HillBeverlyhill
+├── HillBeverlyhill (bot: 84% probability)
 ├── HoevenMaggie
 ├── HollamonMason
 ├── HomeBre08609636
 ├── HoweJacq
 ├── Huckleberry963
 ├── HughMontgomer19
-├── ImpeachJoeBide3
-├── ImpeachJoeBide3
+├── ImpeachJoeBide3 (bot: 84% probability)
+├── ImpeachJoeBide3 (bot: 84% probability)
 ├── InnerCi62612051
 ├── ItchyQ84
 ├── J81858
 ├── JB_Richter
 ├── JCT_212
 ├── JCh505
-├── JERDKING123456
+├── JERDKING123456 (bot: 83% probability)
 ├── JESUMCRACKERS
 ├── JGrogan54
 ├── JJMcQuade2
 ├── JMaksou
 ├── JOJOTRO
-├── JTBNYC59
+├── JTBNYC59 (bot: 83% probability)
 ├── JTravolino
 ├── JaJahIrie
 ├── JackSla91503189
 ├── Jah280618342
-├── Jahueb
+├── Jahueb (bot: 81% probability)
 ├── James81875228
 ├── James91723535
 ├── JamieHi66173403
@@ -336,7 +336,7 @@ SenSchumer
 │   ├── danabp14
 │   ├── eddie_kindell
 │   ├── grego_great
-│   ├── iroc158
+│   ├── iroc158 (bot: 81% probability)
 │   ├── phillipwisco
 │   ├── rkroeter
 │   ├── scotrog
@@ -374,8 +374,8 @@ SenSchumer
 ├── Justnob08165411
 ├── Jwb52z
 ├── KarenBRubin
-├── Karina121
-├── KateBurkhart7
+├── Karina121 (bot: 85% probability)
+├── KateBurkhart7 (bot: 81% probability)
 ├── KathyBielli
 ├── Keefer1958
 ├── KelpForest3
@@ -417,7 +417,7 @@ SenSchumer
 ├── M00kda
 ├── MCelesteAuthor
 ├── MGKrebbs
-│   └── 88SEATTLE61
+│   └── 88SEATTLE61 (bot: 87% probability)
 ├── ManuelC26546407
 ├── MarieJ19
 ├── Mark78249999
@@ -442,7 +442,7 @@ SenSchumer
 │   │       ├── Shirlopper1
 │   │       ├── Shirlopper1
 │   │       └── Shirlopper1
-│   ├── andrew_helbling
+│   ├── andrew_helbling (bot: 81% probability)
 │   │   ├── OUnderfolder
 │   │   │   └── Jwb52z
 │   │   └── steolande
@@ -466,7 +466,7 @@ SenSchumer
 ├── Michell19341833
 ├── Midbymidwest10
 │   └── humanbeing71025
-├── MidnightInsigh1
+├── MidnightInsigh1 (bot: 81% probability)
 ├── Mikvah18
 ├── Millinthemiddle
 ├── MimiResists
@@ -476,16 +476,16 @@ SenSchumer
 │   │   └── VivianActivist
 │   └── bricketts48
 ├── MmeScience
-├── MollyMay1923
+├── MollyMay1923 (bot: 84% probability)
 ├── MonikaMusing
 ├── MonkeyK36762589
 ├── Moonriver33
 ├── MooseKn83154161
 ├── Mplsajbt
 ├── MrKillerKiller
-├── MrOssi42888525
+├── MrOssi42888525 (bot: 84% probability)
 ├── MrPatAm
-├── MsMargomania
+├── MsMargomania (bot: 84% probability)
 ├── Msdesignerlady (bot: 91% probability)
 │   └── HoevenMaggie
 ├── Msreddfoxxx
@@ -513,30 +513,30 @@ SenSchumer
 ├── Patkag145170
 ├── PatriciaMaryG
 ├── Patrick51087359
-├── PaulMiller1313
+├── PaulMiller1313 (bot: 83% probability)
 ├── PaulSample508
-├── Peacekeeper876
+├── Peacekeeper876 (bot: 81% probability)
 │   ├── JoymcdMcdonald
 │   ├── NicoleEHering1
 │   ├── facts_oscar
 │   ├── medic854
 │   ├── saxisgirl
 │   ├── the_mod_woman
-│   │   ├── Peacekeeper876
-│   │   ├── Peacekeeper876
-│   │   └── Peacekeeper876
-│   └── tyrasquared
+│   │   ├── Peacekeeper876 (bot: 81% probability)
+│   │   ├── Peacekeeper876 (bot: 81% probability)
+│   │   └── Peacekeeper876 (bot: 81% probability)
+│   └── tyrasquared (bot: 85% probability)
 │       ├── CivilRightsStan
-│       │   ├── Peacekeeper876
-│       │   ├── Peacekeeper876
-│       │   ├── Peacekeeper876
-│       │   └── Peacekeeper876
-│       │       └── Peacekeeper876
-│       │           └── Peacekeeper876
-│       ├── Peacekeeper876
+│       │   ├── Peacekeeper876 (bot: 81% probability)
+│       │   ├── Peacekeeper876 (bot: 81% probability)
+│       │   ├── Peacekeeper876 (bot: 81% probability)
+│       │   └── Peacekeeper876 (bot: 81% probability)
+│       │       └── Peacekeeper876 (bot: 81% probability)
+│       │           └── Peacekeeper876 (bot: 81% probability)
+│       ├── Peacekeeper876 (bot: 81% probability)
 │       ├── User ID: 1402075069715730433 (Botometer check failed)
 │       └── silvercoug
-│           ├── Peacekeeper876
+│           ├── Peacekeeper876 (bot: 81% probability)
 │           └── rsfinney
 ├── PeachValleyView
 │   └── Arcadecabz
@@ -544,7 +544,7 @@ SenSchumer
 ├── Perrl2Lisa
 ├── Pete45503167
 ├── Pete81891829
-├── PeterII19
+├── PeterII19 (bot: 81% probability)
 ├── PhillpsDana
 ├── PickettThomas1 (bot: 93% probability)
 ├── PiperCutch
@@ -552,7 +552,7 @@ SenSchumer
 ├── Polyukhovich00
 ├── Potterygirl63
 ├── Powera66
-├── ProgressiveTex3
+├── ProgressiveTex3 (bot: 89% probability)
 ├── Purplefreak1990
 ├── QuinnMalone17
 ├── QuoteDigging
@@ -573,7 +573,7 @@ SenSchumer
 │   │   └── CastleTheWise
 │   │       ├── TheRev92020112
 │   │       └── guy73975048
-│   ├── iroc158
+│   ├── iroc158 (bot: 81% probability)
 │   ├── kimToml99226468
 │   ├── phillipwisco
 │   │   └── apurpleshadow
@@ -588,10 +588,10 @@ SenSchumer
 │   │               └── rkroeter
 │   │                   └── KristyC6392
 │   │                       ├── rkroeter
-│   │                       │   └── Andrew13933836
+│   │                       │   └── Andrew13933836 (bot: 81% probability)
 │   │                       │       └── rkroeter
-│   │                       │           ├── Andrew13933836
-│   │                       │           └── Andrew13933836
+│   │                       │           ├── Andrew13933836 (bot: 81% probability)
+│   │                       │           └── Andrew13933836 (bot: 81% probability)
 │   │                       └── rkroeter
 │   └── scubaemt
 ├── RDukester
@@ -608,7 +608,7 @@ SenSchumer
 ├── RawPolitic1
 ├── RayBenn75082569
 ├── Rayjustice15
-├── ReckonerOfMan
+├── ReckonerOfMan (bot: 84% probability)
 ├── Redcarol5
 ├── ReelRodden
 ├── ReeseSylas
@@ -620,7 +620,7 @@ SenSchumer
 ├── Richards66Slick (bot: 92% probability)
 ├── RidesStill
 ├── Roan46532703
-├── RobbieTheK2
+├── RobbieTheK2 (bot: 81% probability)
 ├── Robert57281841
 ├── RobertB90027598
 ├── RobertL35914799
@@ -644,7 +644,7 @@ SenSchumer
 ├── SandeepSandySe2
 ├── SarahWh50688441
 ├── SeattleMorn2
-├── Seekerotruth
+├── Seekerotruth (bot: 89% probability)
 ├── Senders25240695
 ├── Senders25240695
 ├── Seth3388
@@ -656,14 +656,14 @@ SenSchumer
 ├── SheilaGinHB
 ├── SheilaS56520014
 ├── ShermMartin
-├── ShunnSr
-├── SiPapiStudio
+├── ShunnSr (bot: 86% probability)
+├── SiPapiStudio (bot: 81% probability)
 ├── Sicario48038385
 ├── SimmsLE
 ├── SiveraRuben
 ├── Skinny_teacher
 ├── Smcscribbler3
-├── Smilan317
+├── Smilan317 (bot: 83% probability)
 │   ├── DebateMastery
 │   ├── PeLuRi5
 │   └── dviantsemicolon
@@ -675,30 +675,30 @@ SenSchumer
 ├── StacyBogan1
 ├── StacyDAlessand3 (bot: 93% probability)
 ├── StacyHunnicutt5
-├── Stanley30892181
+├── Stanley30892181 (bot: 87% probability)
 ├── StarfireCity
 ├── StateVoter
-├── StevRobin
+├── StevRobin (bot: 82% probability)
 ├── Steve_BICC
 ├── Stevegouk
 ├── StillBLACK2021
 ├── StopMeltdown
 ├── SubhamG17368327
-├── SuchitraPai1
+├── SuchitraPai1 (bot: 88% probability)
 ├── Suebabe1108
 ├── Sulaemo80551822
 ├── SuperDad1569
 ├── Sweetmama110
 ├── SwishDaBoss
 ├── T2inDC
-├── T3MB1
+├── T3MB1 (bot: 86% probability)
 ├── THEMOCOLLINS
 ├── TammyMolpus
 ├── TarynKe12167652
-├── TeHenderson14
+├── TeHenderson14 (bot: 81% probability)
 ├── TeaRocckanova
 ├── Teacloc
-├── TeeterA5
+├── TeeterA5 (bot: 81% probability)
 ├── TekshowPlays
 ├── Tennman_7
 ├── TeriDuchac
@@ -708,7 +708,7 @@ SenSchumer
 ├── TheLizMac
 ├── TheONLYJPSHULER
 ├── ThePhilof
-├── TheTas
+├── TheTas (bot: 84% probability)
 ├── TheeMrWheat
 ├── Themissing52
 ├── ThisAndThat71
@@ -727,7 +727,7 @@ SenSchumer
 │           └── LadybugCounting
 ├── Timeoutdone
 ├── Tom86692661
-├── TommyDe34047287
+├── TommyDe34047287 (bot: 83% probability)
 ├── TonaldD09930327
 ├── TonyBob28609658
 ├── TonyBob28609658
@@ -756,11 +756,11 @@ SenSchumer
 ├── VernBerrios
 ├── VernonJ17227383
 ├── Vette2456
-├── ViiViper
-├── Vinnie1715
-├── VioletReads
-├── VitaFitzpatri13
-├── VitaFitzpatri13
+├── ViiViper (bot: 89% probability)
+├── Vinnie1715 (bot: 81% probability)
+├── VioletReads (bot: 87% probability)
+├── VitaFitzpatri13 (bot: 83% probability)
+├── VitaFitzpatri13 (bot: 83% probability)
 ├── Vmec1980
 ├── WB4RHR_WX
 ├── WSTaylor2
@@ -775,12 +775,12 @@ SenSchumer
 │   ├── dviantsemicolon
 │   └── france1_
 ├── William00709983
-├── WilliamRich2012
+├── WilliamRich2012 (bot: 84% probability)
 ├── WilliamYardle10
 ├── WillieBeammin
 ├── WillyMewis (bot: 91% probability)
 ├── WizardlyCurve
-├── YogawithSuzi
+├── YogawithSuzi (bot: 81% probability)
 ├── YosephGoldberg
 ├── Zaph0d4242
 ├── Zaro72280250
@@ -789,7 +789,7 @@ SenSchumer
 ├── abigail_doull
 ├── advertisingeyes
 ├── alloyspoon
-├── andy999shawca
+├── andy999shawca (bot: 82% probability)
 ├── annieM71913732
 ├── apmastrangelo
 ├── aquandra
@@ -798,9 +798,9 @@ SenSchumer
 ├── art38741656
 ├── atomoboy35209
 ├── autoblography
-├── awelab1956
+├── awelab1956 (bot: 89% probability)
 ├── bRadMan00
-├── babalola_peju
+├── babalola_peju (bot: 84% probability)
 ├── bakatzenberg
 ├── banfacebook5
 ├── barb_chick
@@ -816,14 +816,14 @@ SenSchumer
 ├── bk52480 (bot: 100% probability)
 ├── bluelotus407
 ├── bob02920178
-├── bobby_paulk
+├── bobby_paulk (bot: 82% probability)
 ├── botany500
 ├── boxspringm
 ├── brianhollywood_
 ├── briiiiiiiiiit1
 ├── brufan3711
 ├── bt_la2015
-├── buddhasgift1
+├── buddhasgift1 (bot: 82% probability)
 ├── buster_barr
 ├── cMott15
 ├── c_c_pappas
@@ -837,8 +837,8 @@ SenSchumer
 ├── carolynthechef
 ├── casareilly
 ├── casareilly
-├── cass_decosta
-├── catluvr71
+├── cass_decosta (bot: 81% probability)
+├── catluvr71 (bot: 81% probability)
 ├── cdr613
 ├── cealey2
 ├── cheadiesel
@@ -849,14 +849,14 @@ SenSchumer
 │   │   └── grandma420
 │   └── katnmouselove
 │       └── JoshMur93525408
-├── cindralaluna
+├── cindralaluna (bot: 82% probability)
 ├── cindypa1298
 ├── cjamesholden
 ├── clhighclfar
 ├── cmlloyd1967
 ├── cmocre1957
 ├── cnote65
-├── compolart
+├── compolart (bot: 85% probability)
 ├── conserv505
 ├── cox117elizabeth
 ├── crjahn1
@@ -870,7 +870,7 @@ SenSchumer
 ├── dacabass
 ├── dalvajulia
 ├── danddrost
-├── darrylno2
+├── darrylno2 (bot: 88% probability)
 ├── data_hag
 ├── davelopes9
 ├── davidlwashburn
@@ -879,14 +879,14 @@ SenSchumer
 ├── debcombs14
 ├── deensr1
 ├── denmar09378027
-├── dennis_slusser
-├── dervanovovic
+├── dennis_slusser (bot: 83% probability)
+├── dervanovovic (bot: 81% probability)
 ├── destiny065
 ├── dfortkiewicz
 ├── dgar177
 ├── dgtimeisup
 ├── dirich1955
-├── djgoode3
+├── djgoode3 (bot: 83% probability)
 ├── dmstroh
 ├── docgoodloe
 ├── doitall2
@@ -896,7 +896,7 @@ SenSchumer
 ├── dstrzalka_diana
 ├── ec_mertens
 ├── eddie_kindell
-├── eisenbrey_dave
+├── eisenbrey_dave (bot: 81% probability)
 ├── ekathyfloyd
 ├── ellen06587191
 ├── ellipse_chris
@@ -904,7 +904,7 @@ SenSchumer
 ├── ewhite2464
 ├── filthyhandsforu
 ├── fire_straight
-├── fizzily1
+├── fizzily1 (bot: 90% probability)
 ├── florenceredman1
 ├── fluffybelden
 ├── frank_venezia
@@ -912,7 +912,7 @@ SenSchumer
 ├── frediquette
 ├── fulanze
 ├── fuller_rath
-├── gailborges
+├── gailborges (bot: 88% probability)
 ├── gmsingh321
 ├── gobluewave75
 ├── gobou1035
@@ -929,7 +929,7 @@ SenSchumer
 ├── gwbarnes3
 ├── gwenda64bryant
 ├── harrisonbecket
-├── healthcareicare
+├── healthcareicare (bot: 83% probability)
 ├── heidischoolman
 ├── hesthejudge99
 ├── hisdiva3
@@ -941,7 +941,7 @@ SenSchumer
 ├── integrityhound
 ├── ispotify1
 ├── isthatasquirrel
-├── its_outta_here
+├── its_outta_here (bot: 83% probability)
 ├── jadeecee1
 ├── jaibranch
 ├── jane_levasseur
@@ -955,7 +955,7 @@ SenSchumer
 ├── jennynyc79
 ├── jessicabmac2017
 ├── jgreet71
-├── jimdonohue13
+├── jimdonohue13 (bot: 83% probability)
 ├── jkno19
 ├── jlharrell1949
 ├── jlq529
@@ -991,16 +991,16 @@ SenSchumer
 ├── ksmith1286A
 ├── ksmith34
 ├── kson112
-├── kurtfollower
+├── kurtfollower (bot: 87% probability)
 ├── l72jg2017
-├── lacefield_w
+├── lacefield_w (bot: 87% probability)
 ├── ladybleedsblue
 ├── lambzy12
 ├── larryd202157
 ├── larryd202157
 ├── larrywitness
 ├── layakn
-├── lcatboonies
+├── lcatboonies (bot: 81% probability)
 ├── ldiannew
 ├── leonardbartolo2 (bot: 92% probability)
 ├── leslielou257
@@ -1040,12 +1040,12 @@ SenSchumer
 ├── manesa_subedi
 │   └── Jan25231150
 │       └── Jan25231150
-├── manifestantes12
+├── manifestantes12 (bot: 82% probability)
 ├── maracharese
 ├── martasa63622211 (bot: 93% probability)
 │   ├── Michael30451327
 │   └── ShitStartingPro
-│       ├── jbrown11871
+│       ├── jbrown11871 (bot: 88% probability)
 │       └── martasa63622211 (bot: 93% probability)
 │           ├── RealityBitesFL
 │           ├── ShitStartingPro
@@ -1062,12 +1062,12 @@ SenSchumer
 ├── mike14559
 ├── mikecinOH
 ├── miketheknife007
-├── mimi_x4
+├── mimi_x4 (bot: 88% probability)
 ├── misplacedsouthy
 ├── missiongroove
-├── mittens44527935
+├── mittens44527935 (bot: 82% probability)
 ├── mj_vino
-├── mjrua1
+├── mjrua1 (bot: 83% probability)
 ├── mmmfiber
 ├── moinqueens
 ├── moleek22
@@ -1101,7 +1101,7 @@ SenSchumer
 │   ├── dviantsemicolon
 │   │   └── omw
 │   │       └── dviantsemicolon
-│   ├── iroc158
+│   ├── iroc158 (bot: 81% probability)
 │   ├── phillipwisco
 │   │   ├── dviantsemicolon
 │   │   │   └── Michael30451327
@@ -1113,7 +1113,7 @@ SenSchumer
 │       └── vandercryptooo
 ├── originalcubsfan
 ├── ornwen
-├── overallthiscrap
+├── overallthiscrap (bot: 86% probability)
 ├── p3achy154321 (bot: 91% probability)
 ├── p_yelvington
 ├── packet49
@@ -1132,7 +1132,7 @@ SenSchumer
 ├── politiflops
 ├── portecrayon
 ├── postofficetruth
-├── pvdb35
+├── pvdb35 (bot: 82% probability)
 ├── randallross822
 ├── rayonmaui
 ├── redwilld3
@@ -1143,12 +1143,12 @@ SenSchumer
 ├── robyn_weber
 ├── ronnie_hand
 ├── ronnorcoyse
-├── ronvic24
+├── ronvic24 (bot: 81% probability)
 ├── rowanmpope
 ├── rstone324
 ├── sally71004896
 ├── salty2021
-├── saraalbers777
+├── saraalbers777 (bot: 85% probability)
 ├── sarahjbc33
 ├── sarelain
 ├── sawin_lonelle
@@ -1193,20 +1193,20 @@ SenSchumer
 ├── sonyawh55919237
 ├── soonersbigred
 ├── sotonohito55
-├── spalkeen
+├── spalkeen (bot: 82% probability)
 ├── spirit_serenity
-├── stallfortime
+├── stallfortime (bot: 84% probability)
 ├── stargazer5_7
 ├── staypositive1st
 ├── steve_pomplun
 ├── stewart_low
 ├── stodd999
 ├── straydawggg
-├── sunflower2499
+├── sunflower2499 (bot: 86% probability)
 ├── susanhdoty
 ├── suspendedforno1
 ├── sususudio1
-├── tRUMP4nthng
+├── tRUMP4nthng (bot: 83% probability)
 ├── tealtimeB
 ├── terrylshelton13
 ├── that_darn
@@ -1219,7 +1219,7 @@ SenSchumer
 │   │   ├── J_Mayumi_
 │   │   ├── cndthompugsrule
 │   │   ├── kimToml99226468
-│   │   └── richard_tapin
+│   │   └── richard_tapin (bot: 88% probability)
 │   ├── Jwb52z
 │   └── davidlwashburn
 ├── timk519
@@ -1246,11 +1246,11 @@ SenSchumer
 ├── wewendy612008
 ├── whatnow1111
 ├── willec49
-├── williamkuklins1
+├── williamkuklins1 (bot: 88% probability)
 ├── winonabarter
 ├── winonabrand
 ├── wisemanryder
 ├── womanheart
 ├── xxladylolitaxx
-├── yogaskidogs
+├── yogaskidogs (bot: 83% probability)
 └── yrFishnBuddy

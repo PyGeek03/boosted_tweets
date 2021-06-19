@@ -4,141 +4,85 @@
             "name": "Clippers",
             "promoted_content": null,
             "query": "Clippers",
-            "tweet_volume": 137371,
+            "tweet_volume": 147413,
             "url": "http://twitter.com/search?q=Clippers"
-        },
-        {
-            "name": "Jazz",
-            "promoted_content": null,
-            "query": "Jazz",
-            "tweet_volume": 119820,
-            "url": "http://twitter.com/search?q=Jazz"
-        },
-        {
-            "name": "Honey",
-            "promoted_content": null,
-            "query": "Honey",
-            "tweet_volume": 94616,
-            "url": "http://twitter.com/search?q=Honey"
-        },
-        {
-            "name": "Utah",
-            "promoted_content": null,
-            "query": "Utah",
-            "tweet_volume": 61482,
-            "url": "http://twitter.com/search?q=Utah"
-        },
-        {
-            "name": "FULL TIME",
-            "promoted_content": null,
-            "query": "%22FULL+TIME%22",
-            "tweet_volume": 60078,
-            "url": "http://twitter.com/search?q=%22FULL+TIME%22"
-        },
-        {
-            "name": "Gobert",
-            "promoted_content": null,
-            "query": "Gobert",
-            "tweet_volume": 57590,
-            "url": "http://twitter.com/search?q=Gobert"
-        },
-        {
-            "name": "Terance Mann",
-            "promoted_content": null,
-            "query": "%22Terance+Mann%22",
-            "tweet_volume": 42275,
-            "url": "http://twitter.com/search?q=%22Terance+Mann%22"
-        },
-        {
-            "name": "Kawhi",
-            "promoted_content": null,
-            "query": "Kawhi",
-            "tweet_volume": 34989,
-            "url": "http://twitter.com/search?q=Kawhi"
         },
         {
             "name": "Nats",
             "promoted_content": null,
             "query": "Nats",
-            "tweet_volume": 30445,
+            "tweet_volume": 31034,
             "url": "http://twitter.com/search?q=Nats"
+        },
+        {
+            "name": "Ricky",
+            "promoted_content": null,
+            "query": "Ricky",
+            "tweet_volume": 28295,
+            "url": "http://twitter.com/search?q=Ricky"
         },
         {
             "name": "Nationals",
             "promoted_content": null,
             "query": "Nationals",
-            "tweet_volume": 26358,
+            "tweet_volume": 27195,
             "url": "http://twitter.com/search?q=Nationals"
         },
         {
-            "name": "Paul George",
+            "name": "Terrance Mann",
             "promoted_content": null,
-            "query": "%22Paul+George%22",
-            "tweet_volume": 25703,
-            "url": "http://twitter.com/search?q=%22Paul+George%22"
+            "query": "%22Terrance+Mann%22",
+            "tweet_volume": 24583,
+            "url": "http://twitter.com/search?q=%22Terrance+Mann%22"
         },
         {
-            "name": "DPOY",
+            "name": "kcon",
             "promoted_content": null,
-            "query": "DPOY",
-            "tweet_volume": 24691,
-            "url": "http://twitter.com/search?q=DPOY"
+            "query": "kcon",
+            "tweet_volume": 21435,
+            "url": "http://twitter.com/search?q=kcon"
         },
         {
-            "name": "Reggie Jackson",
+            "name": "Kris",
             "promoted_content": null,
-            "query": "%22Reggie+Jackson%22",
-            "tweet_volume": 19710,
-            "url": "http://twitter.com/search?q=%22Reggie+Jackson%22"
-        },
-        {
-            "name": "Donovan Mitchell",
-            "promoted_content": null,
-            "query": "%22Donovan+Mitchell%22",
-            "tweet_volume": 19654,
-            "url": "http://twitter.com/search?q=%22Donovan+Mitchell%22"
-        },
-        {
-            "name": "Xavier",
-            "promoted_content": null,
-            "query": "Xavier",
-            "tweet_volume": 14399,
-            "url": "http://twitter.com/search?q=Xavier"
+            "query": "Kris",
+            "tweet_volume": 20120,
+            "url": "http://twitter.com/search?q=Kris"
         },
         {
             "name": "Ty Lue",
             "promoted_content": null,
             "query": "%22Ty+Lue%22",
-            "tweet_volume": 13696,
+            "tweet_volume": 14897,
             "url": "http://twitter.com/search?q=%22Ty+Lue%22"
         },
         {
-            "name": "Springsteen",
+            "name": "Joyce",
             "promoted_content": null,
-            "query": "Springsteen",
-            "tweet_volume": 10310,
-            "url": "http://twitter.com/search?q=Springsteen"
+            "query": "Joyce",
+            "tweet_volume": 12486,
+            "url": "http://twitter.com/search?q=Joyce"
         },
         {
-            "name": "#NRLKnightsWarriors",
+            "name": "Round 3",
             "promoted_content": null,
-            "query": "%23NRLKnightsWarriors",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%23NRLKnightsWarriors"
+            "query": "%22Round+3%22",
+            "tweet_volume": 10771,
+            "url": "http://twitter.com/search?q=%22Round+3%22"
         },
         {
-            "name": "#AFLSunsPower",
+            "name": "#NRLDragonsRaiders",
             "promoted_content": null,
-            "query": "%23AFLSunsPower",
+            "query": "%23NRLDragonsRaiders",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%23AFLSunsPower"
+            "url": "http://twitter.com/search?q=%23NRLDragonsRaiders"
         },
         {
-            "name": "#DragRaceDownUnder",
+            "name": "#AFLGIANTSBlues",
             "promoted_content": null,
-            "query": "%23DragRaceDownUnder",
+            "query": "%23AFLGIANTSBlues",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%23DragRaceDownUnder"
+            "url": "http://twitter.com/search?q=%23AFLGIANTSBlues"
         },
         {
             "name": "#AFLNorthLions",
@@ -148,67 +92,53 @@
             "url": "http://twitter.com/search?q=%23AFLNorthLions"
         },
         {
-            "name": "#RepcoSC",
+            "name": "#SYDvADL",
             "promoted_content": null,
-            "query": "%23RepcoSC",
+            "query": "%23SYDvADL",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%23RepcoSC"
+            "url": "http://twitter.com/search?q=%23SYDvADL"
         },
         {
-            "name": "Barnaby",
+            "name": "#DragRaceDownUnder",
             "promoted_content": null,
-            "query": "Barnaby",
+            "query": "%23DragRaceDownUnder",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=Barnaby"
+            "url": "http://twitter.com/search?q=%23DragRaceDownUnder"
         },
         {
-            "name": "lachie jones",
+            "name": "Ben Hunt",
             "promoted_content": null,
-            "query": "%22lachie+jones%22",
+            "query": "%22Ben+Hunt%22",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%22lachie+jones%22"
+            "url": "http://twitter.com/search?q=%22Ben+Hunt%22"
         },
         {
-            "name": "ollie wines",
+            "name": "Xavier Savage",
             "promoted_content": null,
-            "query": "%22ollie+wines%22",
+            "query": "%22Xavier+Savage%22",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%22ollie+wines%22"
+            "url": "http://twitter.com/search?q=%22Xavier+Savage%22"
         },
         {
-            "name": "Dice Roll",
+            "name": "Rapana",
             "promoted_content": null,
-            "query": "%22Dice+Roll%22",
+            "query": "Rapana",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%22Dice+Roll%22"
+            "url": "http://twitter.com/search?q=Rapana"
         },
         {
-            "name": "Littleproud",
+            "name": "Sloan",
             "promoted_content": null,
-            "query": "Littleproud",
+            "query": "Sloan",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=Littleproud"
+            "url": "http://twitter.com/search?q=Sloan"
         },
         {
-            "name": "Kurt Mann",
+            "name": "corey norman",
             "promoted_content": null,
-            "query": "%22Kurt+Mann%22",
+            "query": "%22corey+norman%22",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%22Kurt+Mann%22"
-        },
-        {
-            "name": "Walsh",
-            "promoted_content": null,
-            "query": "Walsh",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=Walsh"
-        },
-        {
-            "name": "Clifford",
-            "promoted_content": null,
-            "query": "Clifford",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=Clifford"
+            "url": "http://twitter.com/search?q=%22corey+norman%22"
         },
         {
             "name": "Dave Hughes",
@@ -218,74 +148,11 @@
             "url": "http://twitter.com/search?q=%22Dave+Hughes%22"
         },
         {
-            "name": "Amish Boy",
+            "name": "Carlton",
             "promoted_content": null,
-            "query": "%22Amish+Boy%22",
+            "query": "Carlton",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%22Amish+Boy%22"
-        },
-        {
-            "name": "Fitzgibbon",
-            "promoted_content": null,
-            "query": "Fitzgibbon",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=Fitzgibbon"
-        },
-        {
-            "name": "Free To Move",
-            "promoted_content": null,
-            "query": "%22Free+To+Move%22",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%22Free+To+Move%22"
-        },
-        {
-            "name": "Carroll",
-            "promoted_content": null,
-            "query": "Carroll",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=Carroll"
-        },
-        {
-            "name": "Joe Hildebrand",
-            "promoted_content": null,
-            "query": "%22Joe+Hildebrand%22",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%22Joe+Hildebrand%22"
-        },
-        {
-            "name": "Brodie Jones",
-            "promoted_content": null,
-            "query": "%22Brodie+Jones%22",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%22Brodie+Jones%22"
-        },
-        {
-            "name": "Race 12",
-            "promoted_content": null,
-            "query": "%22Race+12%22",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%22Race+12%22"
-        },
-        {
-            "name": "Pearce",
-            "promoted_content": null,
-            "query": "Pearce",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=Pearce"
-        },
-        {
-            "name": "Anton",
-            "promoted_content": null,
-            "query": "Anton",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=Anton"
-        },
-        {
-            "name": "Barnett",
-            "promoted_content": null,
-            "query": "Barnett",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=Barnett"
+            "url": "http://twitter.com/search?q=Carlton"
         },
         {
             "name": "Selwood",
@@ -295,11 +162,67 @@
             "url": "http://twitter.com/search?q=Selwood"
         },
         {
-            "name": "Rubisaki",
+            "name": "De Belin",
             "promoted_content": null,
-            "query": "Rubisaki",
+            "query": "%22De+Belin%22",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=Rubisaki"
+            "url": "http://twitter.com/search?q=%22De+Belin%22"
+        },
+        {
+            "name": "Littleproud",
+            "promoted_content": null,
+            "query": "Littleproud",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=Littleproud"
+        },
+        {
+            "name": "Toby Greene",
+            "promoted_content": null,
+            "query": "%22Toby+Greene%22",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=%22Toby+Greene%22"
+        },
+        {
+            "name": "Gold Coast",
+            "promoted_content": null,
+            "query": "%22Gold+Coast%22",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=%22Gold+Coast%22"
+        },
+        {
+            "name": "Brodie Jones",
+            "promoted_content": null,
+            "query": "%22Brodie+Jones%22",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=%22Brodie+Jones%22"
+        },
+        {
+            "name": "free to move",
+            "promoted_content": null,
+            "query": "%22free+to+move%22",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=%22free+to+move%22"
+        },
+        {
+            "name": "Snitch",
+            "promoted_content": null,
+            "query": "Snitch",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=Snitch"
+        },
+        {
+            "name": "Carroll",
+            "promoted_content": null,
+            "query": "Carroll",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=Carroll"
+        },
+        {
+            "name": "Walsh",
+            "promoted_content": null,
+            "query": "Walsh",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=Walsh"
         },
         {
             "name": "McCormack",
@@ -309,32 +232,18 @@
             "url": "http://twitter.com/search?q=McCormack"
         },
         {
-            "name": "Ipswich Cup",
+            "name": "Sydney FC",
             "promoted_content": null,
-            "query": "%22Ipswich+Cup%22",
+            "query": "%22Sydney+FC%22",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%22Ipswich+Cup%22"
+            "url": "http://twitter.com/search?q=%22Sydney+FC%22"
         },
         {
-            "name": "Robbie Gray",
+            "name": "Wollongong",
             "promoted_content": null,
-            "query": "%22Robbie+Gray%22",
+            "query": "Wollongong",
             "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%22Robbie+Gray%22"
-        },
-        {
-            "name": "National Party",
-            "promoted_content": null,
-            "query": "%22National+Party%22",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=%22National+Party%22"
-        },
-        {
-            "name": "Maddy",
-            "promoted_content": null,
-            "query": "Maddy",
-            "tweet_volume": 0,
-            "url": "http://twitter.com/search?q=Maddy"
+            "url": "http://twitter.com/search?q=Wollongong"
         },
         {
             "name": "Tassie",
@@ -344,11 +253,102 @@
             "url": "http://twitter.com/search?q=Tassie"
         },
         {
+            "name": "Scott Morrison's Australia",
+            "promoted_content": null,
+            "query": "%22Scott+Morrison%27s+Australia%22",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=%22Scott+Morrison%27s+Australia%22"
+        },
+        {
+            "name": "rubisaki",
+            "promoted_content": null,
+            "query": "rubisaki",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=rubisaki"
+        },
+        {
+            "name": "wines",
+            "promoted_content": null,
+            "query": "wines",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=wines"
+        },
+        {
+            "name": "Neale",
+            "promoted_content": null,
+            "query": "Neale",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=Neale"
+        },
+        {
             "name": "Telstra",
             "promoted_content": null,
             "query": "Telstra",
             "tweet_volume": 0,
             "url": "http://twitter.com/search?q=Telstra"
+        },
+        {
+            "name": "Joe Hildebrand",
+            "promoted_content": null,
+            "query": "%22Joe+Hildebrand%22",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=%22Joe+Hildebrand%22"
+        },
+        {
+            "name": "Rankine",
+            "promoted_content": null,
+            "query": "Rankine",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=Rankine"
+        },
+        {
+            "name": "Ramsey",
+            "promoted_content": null,
+            "query": "Ramsey",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=Ramsey"
+        },
+        {
+            "name": "Clifford",
+            "promoted_content": null,
+            "query": "Clifford",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=Clifford"
+        },
+        {
+            "name": "Belmont",
+            "promoted_content": null,
+            "query": "Belmont",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=Belmont"
+        },
+        {
+            "name": "Chadstone",
+            "promoted_content": null,
+            "query": "Chadstone",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=Chadstone"
+        },
+        {
+            "name": "Anton",
+            "promoted_content": null,
+            "query": "Anton",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=Anton"
+        },
+        {
+            "name": "Murph",
+            "promoted_content": null,
+            "query": "Murph",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=Murph"
+        },
+        {
+            "name": "Kurt Mann",
+            "promoted_content": null,
+            "query": "%22Kurt+Mann%22",
+            "tweet_volume": 0,
+            "url": "http://twitter.com/search?q=%22Kurt+Mann%22"
         }
     ]
 }

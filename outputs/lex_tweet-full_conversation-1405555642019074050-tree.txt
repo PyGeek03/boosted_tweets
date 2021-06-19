@@ -375,10 +375,10 @@ lexfridman
 │   │   └── raincamera (bot: 81% probability)
 │   ├── Jayde0077 (bot: 83% probability)
 │   ├── ObserverShift
-│   ├── User ID: 1207407956930658304 (Botometer check failed)
 │   ├── __aurelius
 │   ├── countinbitcoin
-│   └── greenspand
+│   ├── greenspand
+│   └── iTruth84
 ├── DocumentCrypt0
 ├── DocumentingBTC
 │   ├── 1738AlmalikTV
@@ -783,7 +783,6 @@ lexfridman
 ├── TylerChambers (bot: 86% probability)
 ├── UNREG83841926
 ├── UnklePin
-├── User ID: 1207407956930658304 (Botometer check failed)
 ├── User ID: 265150031 (Botometer check failed)
 ├── VKaraboulad
 ├── VenuE98978504
@@ -986,6 +985,7 @@ lexfridman
 ├── hoodeveloper
 ├── hypnoticfrog
 ├── iLikeDaStock
+├── iTruth84
 ├── ialturki
 │   └── ralturki
 ├── iansephton
