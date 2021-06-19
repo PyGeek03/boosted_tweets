@@ -12,7 +12,7 @@ tweets_input = input("Input tweet IDs, seperated by space: ")
 tweet_ids = tweets_input.split()
 
 data = []
-for response in client2.tweet_lookup(tweet_ids):
+for response in client2.user_lookup(tweet_ids):
     data.extend(response['data'])
 
 serialized_json = json.dumps(data,
@@ -23,5 +23,5 @@ print(serialized_json)
 filename = input("Filename to output to: ")
 if filename == "":
     filename = "tweets_cache"
-with open(f'{filename}.json', 'w') as f:
+with open(f'outputs/{filename}.json', 'w') as f:
     f.writelines(serialized_json)

@@ -13,10 +13,11 @@ client1 = twarc.Twarc(consumer_key, consumer_secret,
                       access_token, access_token_secret)
 
 location_codes = {
-    'world': 1, 
-    'US': 23424977
-    }
-chosen_location = 'US'
+    'Global': 1,
+    'US': 23424977,
+    'AU': 60370
+}
+chosen_location = 'Global'
 trends = client1.trends_place(location_codes[chosen_location])[0]["trends"]
 for i in range(len(trends)):
     if trends[i]["tweet_volume"] is None:
@@ -31,5 +32,5 @@ print(serialized_json)
 filename = input("Filename to output to: ")
 if filename == "":
     filename = "trends_cache"
-with open(f'{filename}.json', 'w') as f:
+with open(f'outputs/{filename}.json', 'w') as f:
     f.writelines(serialized_json)

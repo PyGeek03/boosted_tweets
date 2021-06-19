@@ -116,7 +116,7 @@ def main():
     filename = input("Filename to write to: ")
     if filename == "":
         filename = "conversation_cache"
-    with open(f'{filename}.json', 'w') as f:
+    with open(f'outputs/{filename}.json', 'w') as f:
         f.writelines(serialized_json)
 
     # print(serialized_json)
