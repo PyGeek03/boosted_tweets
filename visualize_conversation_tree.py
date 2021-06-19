@@ -21,6 +21,7 @@ def tag_acc_if_bot(acc, threshold, checked_accounts):
         
 
 def visualize_api2(tweets, threshold, checked_accounts):
+    tweets.sort(key=lambda t: t['id'])
     tree = treelib.Tree()
 
     root_tweet = tweets[0]
@@ -51,7 +52,6 @@ def visualize_conversation(conversation_json_file, threshold):
     with open(conversation_json_file, 'r') as f:
         data = json.load(f)
     tweets = data["data"]
-    tweets.sort(key=lambda t: t['id'])
 
     botometer_output_file = "outputs/botometer_cache.json"
     with open(botometer_output_file, 'r') as f:
