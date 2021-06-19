@@ -1,1440 +1,1440 @@
-lexfridman (bot: 39% probability)
-├── 007___Kingpin (bot: 80% probability)
-├── 014_kk (bot: 25% probability)
-├── 0x5A2 (bot: 27% probability)
-├── 13thepureevil (bot: 77% probability)
-├── 1738AlmalikTV (bot: 79% probability)
-├── 1Hubcap1 (bot: 39% probability)
+User ID: 427089628
+├── (Deleted tweet)
+│   └── RemindMe_OfThis
+├── (Deleted tweet)
+│   └── Dagnum_PI
+│       ├── F3RG12
+│       └── oldirtytom
+├── (Deleted tweet)
+│   └── michael_nielsen
+│       ├── RareAxies
+│       └── skoarkid
+├── (Deleted tweet)
+│   └── ObserverShift
+├── (Deleted tweet)
+│   └── bitcoinistruth
+│       └── Eventhisismeta1
+│           └── bitcoinistruth
+├── (Deleted tweet)
+│   └── Payment21_XBT
+├── (Deleted tweet)
+│   └── Irandogecoin
+├── (Deleted tweet)
+│   └── GellmanLucas
+├── (Deleted tweet)
+│   ├── GellmanLucas
+│   └── GellmanLucas
+├── (Deleted tweet)
+│   ├── Macronaut_
+│   └── Macronaut_
+├── (Deleted tweet)
+│   └── GellmanLucas
+├── (Deleted tweet)
+│   └── Ameliak49540249
+├── (Deleted tweet)
+│   └── real_vijay
+│       └── Veseli_Btc
+├── (Deleted tweet)
+│   └── KongstadPeter
+├── (Deleted tweet)
+│   └── w_s_crypto
+│       └── Bit_Faced
+│           ├── Daniel4141414
+│           │   ├── Bit_Faced
+│           │   │   └── w_s_crypto
+│           │   │       └── Bit_Faced
+│           │   │           └── w_s_crypto
+│           │   │               └── Daniel4141414
+│           │   │                   └── Bit_Faced
+│           │   │                       ├── Daniel4141414
+│           │   │                       │   └── Bit_Faced
+│           │   │                       │       └── Daniel4141414
+│           │   │                       │           └── Bit_Faced
+│           │   │                       │               └── Daniel4141414
+│           │   │                       │                   └── Bit_Faced
+│           │   │                       │                       └── w_s_crypto
+│           │   │                       │                           └── Bit_Faced
+│           │   │                       └── w_s_crypto
+│           │   │                           └── Bit_Faced
+│           │   │                               └── w_s_crypto
+│           │   │                                   ├── Bit_Faced
+│           │   │                                   └── maxsonrichards
+│           │   └── Daniel4141414
+│           │       └── Bit_Faced
+│           │           ├── Daniel4141414
+│           │           │   └── Bit_Faced
+│           │           │       └── Bit_Faced
+│           │           │           └── Daniel4141414
+│           │           │               └── Bit_Faced
+│           │           │                   ├── Daniel4141414
+│           │           │                   │   └── Bit_Faced
+│           │           │                   └── w_s_crypto
+│           │           │                       └── w_s_crypto
+│           │           │                           └── Bit_Faced
+│           │           │                               └── Bit_Faced
+│           │           │                                   └── w_s_crypto
+│           │           │                                       └── Bit_Faced
+│           │           │                                           └── w_s_crypto
+│           │           │                                               └── Bit_Faced
+│           │           │                                                   └── w_s_crypto
+│           │           │                                                       └── Bit_Faced
+│           │           │                                                           └── w_s_crypto
+│           │           └── w_s_crypto
+│           │               └── Bit_Faced
+│           │                   ├── Daniel4141414
+│           │                   └── w_s_crypto
+│           ├── Langestrand1337
+│           └── w_s_crypto
+│               └── Bit_Faced
+│                   └── w_s_crypto
+│                       └── Bit_Faced
+│                           └── w_s_crypto
+│                               └── Bit_Faced
+│                                   └── w_s_crypto
+│                                       └── Bit_Faced
+│                                           └── w_s_crypto
+├── (Deleted tweet)
+│   └── famous_ideal
+├── (Deleted tweet)
+│   └── spookyblackfly
+├── (Deleted tweet)
+│   └── FutureBinance (bot: 85% probability)
+├── (Deleted tweet)
+│   └── anionpi
+├── (Deleted tweet)
+│   └── Bit_Faced
+│       ├── Langestrand1337
+│       │   └── Bit_Faced
+│       └── w_s_crypto
+│           ├── Bit_Faced
+│           │   ├── Nakadai_mon
+│           │   │   ├── Nakadai_mon
+│           │   │   │   └── Nakadai_mon
+│           │   │   │       └── Nakadai_mon
+│           │   │   │           └── VikingoBitcoin1
+│           │   │   │               ├── Nakadai_mon
+│           │   │   │               └── Nakadai_mon
+│           │   │   │                   ├── Nakadai_mon
+│           │   │   │                   │   └── VikingoBitcoin1
+│           │   │   │                   └── VikingoBitcoin1
+│           │   │   └── dicechange
+│           │   │       └── Nakadai_mon
+│           │   ├── Nakadai_mon
+│           │   └── w_s_crypto
+│           │       └── Bit_Faced
+│           │           └── w_s_crypto
+│           │               └── w_s_crypto
+│           └── DickWhitman_BTC
+│               └── Bit_Faced
+│                   ├── DickWhitman_BTC
+│                   │   ├── sugar_alv (bot: 82% probability)
+│                   │   │   └── DickWhitman_BTC
+│                   │   └── w_s_crypto
+│                   └── Nakadai_mon
+├── (Deleted tweet)
+│   ├── LGWillmore
+│   │   ├── yupi13575112
+│   │   │   └── LGWillmore
+│   │   └── yupi13575112
+│   │       └── yupi13575112
+│   │           ├── LGWillmore
+│   │           └── yupi13575112
+│   │               └── yupi13575112
+│   │                   └── yupi13575112
+│   │                       └── yupi13575112
+│   └── LGWillmore
+├── (Deleted tweet)
+│   └── vanagz
+├── (Deleted tweet)
+│   └── EntangledApe
+├── 007___Kingpin
+├── 014_kk
+├── 0x5A2
+├── 13thepureevil
+├── 1738AlmalikTV
+├── 1Hubcap1
 ├── 22_cryptohelp (bot: 86% probability)
-├── 265150031
-├── 2twigsco (bot: 52% probability)
-├── 411business (bot: 78% probability)
-├── 4rcant (bot: 49% probability)
-├── 5555Finite (bot: 78% probability)
-├── 777Zed (bot: 77% probability)
-├── A1de88 (bot: 79% probability)
-├── ADRENAL1N______ (bot: 79% probability)
-├── ALIHASHEMSEIF (bot: 73% probability)
-├── ANDREW37738429 (bot: 77% probability)
-│   └── ANDREW37738429 (bot: 77% probability)
-├── ANGIES_DREAM (bot: 33% probability)
+├── 2twigsco
+├── 411business
+├── 4rcant
+├── 5555Finite
+├── 777Zed
+├── A1de88
+├── ADRENAL1N______
+├── ALIHASHEMSEIF
+├── ANDREW37738429
+│   └── ANDREW37738429
+├── ANGIES_DREAM
 ├── APRaimondo
-├── APompliano (bot: 57% probability)
-│   ├── DisNagger (bot: 65% probability)
+├── APompliano
+│   ├── DisNagger
 │   ├── StockScan_io (bot: 82% probability)
-│   │   └── jsphfshr (bot: 50% probability)
-│   ├── WTLD (bot: 70% probability)
-│   ├── hectormaluenda_ (bot: 27% probability)
-│   │   └── Shin0xAkuma (bot: 78% probability)
-│   ├── usernameisatJim (bot: 41% probability)
-│   └── wallstwrasse (bot: 79% probability)
-├── AaronDayAtlas (bot: 39% probability)
-├── Abdulla89234580 (bot: 78% probability)
-├── AbuJasher42 (bot: 76% probability)
-├── Accorto_Manzo (bot: 31% probability)
-├── AfricanaCrypto (bot: 25% probability)
+│   │   └── jsphfshr
+│   ├── WTLD
+│   ├── hectormaluenda_
+│   │   └── Shin0xAkuma
+│   ├── usernameisatJim
+│   └── wallstwrasse
+├── AaronDayAtlas
+├── Abdulla89234580
+├── AbuJasher42
+├── Accorto_Manzo
+├── AfricanaCrypto
 ├── AgedMcNugget
-├── AkberMunawer (bot: 79% probability)
-│   ├── GellmanLucas (bot: 60% probability)
-│   ├── LinkHead1g (bot: 65% probability)
+├── AkberMunawer
+│   ├── GellmanLucas
+│   ├── LinkHead1g
 │   ├── NitinTa76756166 (bot: 89% probability)
-│   ├── galois1900 (bot: 67% probability)
-│   ├── nickmke (bot: 36% probability)
-│   ├── skaver0 (bot: 36% probability)
-│   └── vela_cel (bot: 78% probability)
-├── Al_Titan1O1 (bot: 41% probability)
-├── Alehand46435081 (bot: 79% probability)
-├── AlexHartman21 (bot: 67% probability)
-├── Alex_fights (bot: 55% probability)
-├── AllanJavierMeji (bot: 79% probability)
-├── AltcoinGordon (bot: 80% probability)
-│   └── CryptoD38958834 (bot: 79% probability)
-├── Amc_Shareholder (bot: 55% probability)
+│   ├── galois1900
+│   ├── nickmke
+│   ├── skaver0
+│   └── vela_cel
+├── Al_Titan1O1
+├── Alehand46435081
+├── AlexHartman21
+├── Alex_fights
+├── AllanJavierMeji
+├── AltcoinGordon
+│   └── CryptoD38958834
+├── Amc_Shareholder
 ├── Ampirikukush (bot: 84% probability)
-├── Andrius43512576 (bot: 79% probability)
-├── AngryDoctorx (bot: 28% probability)
-├── AnityaGan9urde (bot: 30% probability)
-│   ├── AnityaGan9urde (bot: 30% probability)
-│   ├── FrederikBischo2 (bot: 44% probability)
-│   │   └── AnityaGan9urde (bot: 30% probability)
-│   ├── GellmanLucas (bot: 60% probability)
+├── Andrius43512576
+├── AngryDoctorx
+├── AnityaGan9urde
+│   ├── AnityaGan9urde
+│   ├── FrederikBischo2
+│   │   └── AnityaGan9urde
+│   ├── GellmanLucas
 │   ├── Jayde0077 (bot: 83% probability)
-│   ├── StackingSaunter (bot: 36% probability)
-│   ├── ___mak_____ (bot: 55% probability)
-│   ├── dayz_hazey (bot: 79% probability)
-│   │   ├── RustyKu80982058 (bot: 79% probability)
-│   │   ├── Sorenrongyao (bot: 77% probability)
-│   │   ├── _Mo_07 (bot: 77% probability)
-│   │   │   ├── dayz_hazey (bot: 79% probability)
-│   │   │   │   └── dayz_hazey (bot: 79% probability)
-│   │   │   └── meowmeoeow (bot: 33% probability)
-│   │   │       └── _Mo_07 (bot: 77% probability)
-│   │   │           └── Jemmau2000 (bot: 77% probability)
-│   │   │               ├── Ajith_sivan_ (bot: 80% probability)
-│   │   │               │   └── Ajith_sivan_ (bot: 80% probability)
-│   │   │               └── meowmeoeow (bot: 33% probability)
-│   │   ├── scylla440X (bot: 77% probability)
-│   │   └── yallamalini (bot: 22% probability)
-│   ├── heyohelen (bot: 30% probability)
-│   ├── hpbfair (bot: 80% probability)
-│   ├── satse45 (bot: 47% probability)
-│   │   └── adam3us (bot: 44% probability)
-│   │       ├── AnityaGan9urde (bot: 30% probability)
-│   │       │   └── rytecalpo (bot: 50% probability)
-│   │       ├── Pratyakshtyagi5 (bot: 44% probability)
-│   │       ├── Prototype963 (bot: 50% probability)
-│   │       ├── jarnargon (bot: 79% probability)
-│   │       └── schandu07 (bot: 79% probability)
+│   ├── StackingSaunter
+│   ├── ___mak_____
+│   ├── dayz_hazey
+│   │   ├── RustyKu80982058
+│   │   ├── Sorenrongyao
+│   │   ├── _Mo_07
+│   │   │   ├── dayz_hazey
+│   │   │   │   └── dayz_hazey
+│   │   │   └── meowmeoeow
+│   │   │       └── _Mo_07
+│   │   │           └── Jemmau2000
+│   │   │               ├── Ajith_sivan_
+│   │   │               │   └── Ajith_sivan_
+│   │   │               └── meowmeoeow
+│   │   ├── scylla440X
+│   │   └── yallamalini
+│   ├── heyohelen
+│   ├── hpbfair
+│   ├── satse45
+│   │   └── adam3us
+│   │       ├── AnityaGan9urde
+│   │       │   └── rytecalpo
+│   │       ├── Pratyakshtyagi5
+│   │       ├── Prototype963
+│   │       ├── jarnargon
+│   │       └── schandu07
 │   └── tttyyllerrrr
-│       └── nfjonty (bot: 78% probability)
-│           └── Kyiv2022 (bot: 27% probability)
-│               └── AnityaGan9urde (bot: 30% probability)
-├── AnthonyDessauer (bot: 60% probability)
-├── AnthonyTaylorM1 (bot: 44% probability)
-├── ArchonGimbatul (bot: 77% probability)
+│       └── nfjonty
+│           └── Kyiv2022
+│               └── AnityaGan9urde
+├── AnthonyDessauer
+├── AnthonyTaylorM1
+├── ArchonGimbatul
 ├── Ariellew15
 ├── Ashutos14629767 (bot: 92% probability)
-├── AstasisMusic (bot: 57% probability)
-├── AugustusMcCra15 (bot: 79% probability)
-├── BBose16 (bot: 76% probability)
-│   └── nikita22652313 (bot: 79% probability)
-├── BLOCKNINETYNINE (bot: 25% probability)
+├── AstasisMusic
+├── AugustusMcCra15
+├── BBose16
+│   └── nikita22652313
+├── BLOCKNINETYNINE
 ├── BNJUYTGBs (bot: 92% probability)
-├── BSwapper (bot: 78% probability)
-├── BTCisHOW (bot: 79% probability)
-├── BaconBitBaby (bot: 77% probability)
-├── BattsColton (bot: 80% probability)
-├── BauchigN (bot: 79% probability)
-├── Bayang_BM (bot: 30% probability)
+├── BSwapper
+├── BTCisHOW
+├── BaconBitBaby
+├── BattsColton
+├── BauchigN
+├── Bayang_BM
 ├── BeMykola (bot: 91% probability)
-├── Bebo94057349 (bot: 79% probability)
+├── Bebo94057349
 ├── Bernardoabdanur (bot: 83% probability)
-├── Beyondtimelines (bot: 52% probability)
-├── BiTrade4 (bot: 79% probability)
-├── BigBaconLand (bot: 43% probability)
+├── Beyondtimelines
+├── BiTrade4
+├── BigBaconLand
 ├── BillyB_ThataMe
 │   └── BillyB_ThataMe
-├── Bilthon (bot: 22% probability)
-├── BishopPane (bot: 71% probability)
-├── BitTwiAr (bot: 27% probability)
-├── Bit_Faced (bot: 57% probability)
-│   └── yupi13575112 (bot: 77% probability)
-├── Bitcoin4all2 (bot: 79% probability)
-├── BitcoinJoe5 (bot: 70% probability)
-├── BitcoinNetwork_ (bot: 71% probability)
-├── BitcoinRen (bot: 44% probability)
-├── Bless_mgolomba (bot: 22% probability)
-├── BlockDevxD (bot: 79% probability)
-├── BobZefinowine (bot: 60% probability)
-├── Boobalaa1954 (bot: 30% probability)
-├── BourbonicP (bot: 44% probability)
-├── BrandonBrooks90 (bot: 75% probability)
-├── BrandonManns3 (bot: 78% probability)
-├── BrianFLittrell (bot: 22% probability)
-├── BrianOrsdel (bot: 71% probability)
-├── Brunchtime27 (bot: 52% probability)
-├── BubblesBitcoin (bot: 77% probability)
-│   └── SatoshiMelange (bot: 55% probability)
-├── BubblesHODL (bot: 79% probability)
-├── BylKode (bot: 44% probability)
-├── C0AI1 (bot: 79% probability)
-├── CRY_PTO0 (bot: 76% probability)
-├── CR_TheEssence (bot: 60% probability)
-├── CallHome16 (bot: 77% probability)
-├── CallyCrypto (bot: 41% probability)
-├── CaptBigMike1982 (bot: 30% probability)
-├── CashMon84244436 (bot: 77% probability)
-├── Cashin_outafiat (bot: 22% probability)
-├── ChainlinkBull (bot: 22% probability)
-├── ChainlinkHub (bot: 25% probability)
+├── Bilthon
+├── BishopPane
+├── BitTwiAr
+├── Bit_Faced
+│   └── yupi13575112
+├── Bitcoin4all2
+├── BitcoinJoe5
+├── BitcoinNetwork_
+├── BitcoinRen
+├── Bless_mgolomba
+├── BlockDevxD
+├── BobZefinowine
+├── Boobalaa1954
+├── BourbonicP
+├── BrandonBrooks90
+├── BrandonManns3
+├── BrianFLittrell
+├── BrianOrsdel
+├── Brunchtime27
+├── BubblesBitcoin
+│   └── SatoshiMelange
+├── BubblesHODL
+├── BylKode
+├── C0AI1
+├── CRY_PTO0
+├── CR_TheEssence
+├── CallHome16
+├── CallyCrypto
+├── CaptBigMike1982
+├── CashMon84244436
+├── Cashin_outafiat
+├── ChainlinkBull
+├── ChainlinkHub
 ├── Cheese36171324 (bot: 93% probability)
-├── CheffWallets (bot: 79% probability)
-├── ChrisWhodl (bot: 39% probability)
-├── Cipherhoodlum (bot: 57% probability)
-├── Cj87904963 (bot: 80% probability)
-├── ClearJiminy (bot: 78% probability)
-├── CoibNit (bot: 79% probability)
-├── CoinGraphicsGuy (bot: 77% probability)
-├── ColdHandsCrypto (bot: 44% probability)
+├── CheffWallets
+├── ChrisWhodl
+├── Cipherhoodlum
+├── Cj87904963
+├── ClearJiminy
+├── CoibNit
+├── CoinGraphicsGuy
+├── ColdHandsCrypto
 ├── ConvWare (bot: 93% probability)
-├── Coop_Daniels (bot: 79% probability)
-├── CountBitcoin (bot: 25% probability)
-├── CreatesCarbon (bot: 60% probability)
-├── CrtfdSprvlln (bot: 30% probability)
-├── CryptoCaliph (bot: 47% probability)
-├── CryptoDavinder (bot: 72% probability)
-├── CryptoFreres (bot: 79% probability)
-├── CryptoGainsClub (bot: 79% probability)
-├── CryptoNomad6 (bot: 79% probability)
-│   └── 5555Finite (bot: 78% probability)
-├── CryptoSaiyan6 (bot: 79% probability)
-├── CryptoZendo (bot: 25% probability)
-├── Crypto_MClub (bot: 79% probability)
-├── CryptobullAlert (bot: 79% probability)
-├── Cryptomnomiconz (bot: 77% probability)
-├── Cryptonade_ (bot: 36% probability)
-├── CubanMusk (bot: 79% probability)
-├── CyberKenobi (bot: 62% probability)
-│   ├── CyberKenobi (bot: 62% probability)
-│   ├── Knutdogg19 (bot: 41% probability)
-│   │   ├── CyberKenobi (bot: 62% probability)
-│   │   │   ├── Knutdogg19 (bot: 41% probability)
-│   │   │   │   └── Knutdogg19 (bot: 41% probability)
-│   │   │   ├── Knutdogg19 (bot: 41% probability)
-│   │   │   ├── Knutdogg19 (bot: 41% probability)
+├── Coop_Daniels
+├── CountBitcoin
+├── CreatesCarbon
+├── CrtfdSprvlln
+├── CryptoCaliph
+├── CryptoDavinder
+├── CryptoFreres
+├── CryptoGainsClub
+├── CryptoNomad6
+│   └── 5555Finite
+├── CryptoSaiyan6
+├── CryptoZendo
+├── Crypto_MClub
+├── CryptobullAlert
+├── Cryptomnomiconz
+├── Cryptonade_
+├── CubanMusk
+├── CyberKenobi
+│   ├── CyberKenobi
+│   ├── Knutdogg19
+│   │   ├── CyberKenobi
+│   │   │   ├── Knutdogg19
+│   │   │   │   └── Knutdogg19
+│   │   │   ├── Knutdogg19
+│   │   │   ├── Knutdogg19
 │   │   │   ├── cryptzzzzz (bot: 81% probability)
-│   │   │   │   └── AndrewBond3 (bot: 67% probability)
+│   │   │   │   └── AndrewBond3
 │   │   │   │       └── cryptzzzzz (bot: 81% probability)
-│   │   │   └── yupi13575112 (bot: 77% probability)
-│   │   └── EldarDRM (bot: 57% probability)
-│   │       └── Knutdogg19 (bot: 41% probability)
-│   │           ├── EldarDRM (bot: 57% probability)
-│   │           │   ├── Knutdogg19 (bot: 41% probability)
-│   │           │   │   └── patrickbennett (bot: 64% probability)
-│   │           │   ├── Knutdogg19 (bot: 41% probability)
-│   │           │   └── Knutdogg19 (bot: 41% probability)
-│   │           └── patrickbennett (bot: 64% probability)
-│   └── futureofamazing (bot: 39% probability)
-├── CypherDoge (bot: 71% probability)
-├── DLCrypto1 (bot: 77% probability)
-├── DanChan_Co (bot: 22% probability)
+│   │   │   └── yupi13575112
+│   │   └── EldarDRM
+│   │       └── Knutdogg19
+│   │           ├── EldarDRM
+│   │           │   ├── Knutdogg19
+│   │           │   │   └── patrickbennett
+│   │           │   ├── Knutdogg19
+│   │           │   └── Knutdogg19
+│   │           └── patrickbennett
+│   └── futureofamazing
+├── CypherDoge
+├── DLCrypto1
+├── DanChan_Co
 ├── DanJame38014020 (bot: 85% probability)
-├── DanielZinner (bot: 80% probability)
-├── DaramyRey (bot: 25% probability)
-├── Darsaja96283401 (bot: 80% probability)
-├── Darth_Avere (bot: 74% probability)
+├── DanielZinner
+├── DaramyRey
+├── Darsaja96283401
+├── Darth_Avere
 ├── Darvi53508930 (bot: 81% probability)
-├── DataSci53066689 (bot: 77% probability)
-├── DavidBreault10 (bot: 79% probability)
-├── DcentBank (bot: 78% probability)
-├── Debase_Fiat (bot: 64% probability)
-├── Dec201220 (bot: 34% probability)
-├── Deep_thinker09 (bot: 78% probability)
-├── DeependraSPatel (bot: 79% probability)
-├── Deleted tweet
-│   └── RemindMe_OfThis (bot: 79% probability)
-├── Deleted tweet
-│   └── Dagnum_PI (bot: 71% probability)
-│       ├── F3RG12 (bot: 79% probability)
-│       └── oldirtytom (bot: 52% probability)
-├── Deleted tweet
-│   └── michael_nielsen (bot: 25% probability)
-│       ├── RareAxies (bot: 79% probability)
-│       └── skoarkid (bot: 39% probability)
-├── Deleted tweet
-│   └── ObserverShift (bot: 79% probability)
-├── Deleted tweet
-│   └── bitcoinistruth (bot: 78% probability)
-│       └── Eventhisismeta1 (bot: 79% probability)
-│           └── bitcoinistruth (bot: 78% probability)
-├── Deleted tweet
-│   └── Payment21_XBT (bot: 67% probability)
-├── Deleted tweet
-│   └── Irandogecoin (bot: 79% probability)
-├── Deleted tweet
-│   └── GellmanLucas (bot: 60% probability)
-├── Deleted tweet
-│   ├── GellmanLucas (bot: 60% probability)
-│   └── GellmanLucas (bot: 60% probability)
-├── Deleted tweet
-│   ├── Macronaut_ (bot: 47% probability)
-│   └── Macronaut_ (bot: 47% probability)
-├── Deleted tweet
-│   └── GellmanLucas (bot: 60% probability)
-├── Deleted tweet
-│   └── Ameliak49540249 (bot: 79% probability)
-├── Deleted tweet
-│   └── real_vijay (bot: 44% probability)
-│       └── Veseli_Btc (bot: 76% probability)
-├── Deleted tweet
-│   └── KongstadPeter (bot: 78% probability)
-├── Deleted tweet
-│   └── w_s_crypto (bot: 79% probability)
-│       └── Bit_Faced (bot: 57% probability)
-│           ├── Daniel4141414 (bot: 67% probability)
-│           │   ├── Bit_Faced (bot: 57% probability)
-│           │   │   └── w_s_crypto (bot: 79% probability)
-│           │   │       └── Bit_Faced (bot: 57% probability)
-│           │   │           └── w_s_crypto (bot: 79% probability)
-│           │   │               └── Daniel4141414 (bot: 67% probability)
-│           │   │                   └── Bit_Faced (bot: 57% probability)
-│           │   │                       ├── Daniel4141414 (bot: 67% probability)
-│           │   │                       │   └── Bit_Faced (bot: 57% probability)
-│           │   │                       │       └── Daniel4141414 (bot: 67% probability)
-│           │   │                       │           └── Bit_Faced (bot: 57% probability)
-│           │   │                       │               └── Daniel4141414 (bot: 67% probability)
-│           │   │                       │                   └── Bit_Faced (bot: 57% probability)
-│           │   │                       │                       └── w_s_crypto (bot: 79% probability)
-│           │   │                       │                           └── Bit_Faced (bot: 57% probability)
-│           │   │                       └── w_s_crypto (bot: 79% probability)
-│           │   │                           └── Bit_Faced (bot: 57% probability)
-│           │   │                               └── w_s_crypto (bot: 79% probability)
-│           │   │                                   ├── Bit_Faced (bot: 57% probability)
-│           │   │                                   └── maxsonrichards (bot: 79% probability)
-│           │   └── Daniel4141414 (bot: 67% probability)
-│           │       └── Bit_Faced (bot: 57% probability)
-│           │           ├── Daniel4141414 (bot: 67% probability)
-│           │           │   └── Bit_Faced (bot: 57% probability)
-│           │           │       └── Bit_Faced (bot: 57% probability)
-│           │           │           └── Daniel4141414 (bot: 67% probability)
-│           │           │               └── Bit_Faced (bot: 57% probability)
-│           │           │                   ├── Daniel4141414 (bot: 67% probability)
-│           │           │                   │   └── Bit_Faced (bot: 57% probability)
-│           │           │                   └── w_s_crypto (bot: 79% probability)
-│           │           │                       └── w_s_crypto (bot: 79% probability)
-│           │           │                           └── Bit_Faced (bot: 57% probability)
-│           │           │                               └── Bit_Faced (bot: 57% probability)
-│           │           │                                   └── w_s_crypto (bot: 79% probability)
-│           │           │                                       └── Bit_Faced (bot: 57% probability)
-│           │           │                                           └── w_s_crypto (bot: 79% probability)
-│           │           │                                               └── Bit_Faced (bot: 57% probability)
-│           │           │                                                   └── w_s_crypto (bot: 79% probability)
-│           │           │                                                       └── Bit_Faced (bot: 57% probability)
-│           │           │                                                           └── w_s_crypto (bot: 79% probability)
-│           │           └── w_s_crypto (bot: 79% probability)
-│           │               └── Bit_Faced (bot: 57% probability)
-│           │                   ├── Daniel4141414 (bot: 67% probability)
-│           │                   └── w_s_crypto (bot: 79% probability)
-│           ├── Langestrand1337 (bot: 27% probability)
-│           └── w_s_crypto (bot: 79% probability)
-│               └── Bit_Faced (bot: 57% probability)
-│                   └── w_s_crypto (bot: 79% probability)
-│                       └── Bit_Faced (bot: 57% probability)
-│                           └── w_s_crypto (bot: 79% probability)
-│                               └── Bit_Faced (bot: 57% probability)
-│                                   └── w_s_crypto (bot: 79% probability)
-│                                       └── Bit_Faced (bot: 57% probability)
-│                                           └── w_s_crypto (bot: 79% probability)
-├── Deleted tweet
-│   └── famous_ideal (bot: 79% probability)
-├── Deleted tweet
-│   └── spookyblackfly (bot: 76% probability)
-├── Deleted tweet
-│   └── FutureBinance (bot: 85% probability)
-├── Deleted tweet
-│   └── anionpi (bot: 44% probability)
-├── Deleted tweet
-│   └── Bit_Faced (bot: 57% probability)
-│       ├── Langestrand1337 (bot: 27% probability)
-│       │   └── Bit_Faced (bot: 57% probability)
-│       └── w_s_crypto (bot: 79% probability)
-│           ├── Bit_Faced (bot: 57% probability)
-│           │   ├── Nakadai_mon (bot: 79% probability)
-│           │   │   ├── Nakadai_mon (bot: 79% probability)
-│           │   │   │   └── Nakadai_mon (bot: 79% probability)
-│           │   │   │       └── Nakadai_mon (bot: 79% probability)
-│           │   │   │           └── VikingoBitcoin1 (bot: 79% probability)
-│           │   │   │               ├── Nakadai_mon (bot: 79% probability)
-│           │   │   │               └── Nakadai_mon (bot: 79% probability)
-│           │   │   │                   ├── Nakadai_mon (bot: 79% probability)
-│           │   │   │                   │   └── VikingoBitcoin1 (bot: 79% probability)
-│           │   │   │                   └── VikingoBitcoin1 (bot: 79% probability)
-│           │   │   └── dicechange (bot: 78% probability)
-│           │   │       └── Nakadai_mon (bot: 79% probability)
-│           │   ├── Nakadai_mon (bot: 79% probability)
-│           │   └── w_s_crypto (bot: 79% probability)
-│           │       └── Bit_Faced (bot: 57% probability)
-│           │           └── w_s_crypto (bot: 79% probability)
-│           │               └── w_s_crypto (bot: 79% probability)
-│           └── DickWhitman_BTC (bot: 79% probability)
-│               └── Bit_Faced (bot: 57% probability)
-│                   ├── DickWhitman_BTC (bot: 79% probability)
-│                   │   ├── sugar_alv (bot: 82% probability)
-│                   │   │   └── DickWhitman_BTC (bot: 79% probability)
-│                   │   └── w_s_crypto (bot: 79% probability)
-│                   └── Nakadai_mon (bot: 79% probability)
-├── Deleted tweet
-│   ├── LGWillmore (bot: 44% probability)
-│   │   ├── yupi13575112 (bot: 77% probability)
-│   │   │   └── LGWillmore (bot: 44% probability)
-│   │   └── yupi13575112 (bot: 77% probability)
-│   │       └── yupi13575112 (bot: 77% probability)
-│   │           ├── LGWillmore (bot: 44% probability)
-│   │           └── yupi13575112 (bot: 77% probability)
-│   │               └── yupi13575112 (bot: 77% probability)
-│   │                   └── yupi13575112 (bot: 77% probability)
-│   │                       └── yupi13575112 (bot: 77% probability)
-│   └── LGWillmore (bot: 44% probability)
-├── Deleted tweet
-│   └── vanagz (bot: 47% probability)
-├── Deleted tweet
-│   └── EntangledApe (bot: 79% probability)
-├── DeweyWoodz (bot: 79% probability)
-├── DiavolAmericano (bot: 80% probability)
-├── DiligentNinja (bot: 55% probability)
-│   └── Eventhisismeta1 (bot: 79% probability)
-│       ├── DiligentNinja (bot: 55% probability)
-│       └── Eventhisismeta1 (bot: 79% probability)
-├── Dinoajinomoto (bot: 76% probability)
-├── Diorthotis (bot: 73% probability)
-├── DipBuyer5 (bot: 78% probability)
-├── Djeminsky (bot: 64% probability)
-│   ├── 92Cashflow (bot: 79% probability)
-│   │   ├── Bernard77661198 (bot: 65% probability)
-│   │   ├── HhqJason (bot: 78% probability)
-│   │   │   └── MrBobGilbert (bot: 44% probability)
+├── DataSci53066689
+├── DavidBreault10
+├── DcentBank
+├── Debase_Fiat
+├── Dec201220
+├── Deep_thinker09
+├── DeependraSPatel
+├── DeweyWoodz
+├── DiavolAmericano
+├── DiligentNinja
+│   └── Eventhisismeta1
+│       ├── DiligentNinja
+│       └── Eventhisismeta1
+├── Dinoajinomoto
+├── Diorthotis
+├── DipBuyer5
+├── Djeminsky
+│   ├── 92Cashflow
+│   │   ├── Bernard77661198
+│   │   ├── HhqJason
+│   │   │   └── MrBobGilbert
 │   │   └── raincamera (bot: 81% probability)
 │   ├── Jayde0077 (bot: 83% probability)
-│   ├── ObserverShift (bot: 79% probability)
-│   ├── __aurelius (bot: 41% probability)
+│   ├── ObserverShift
+│   ├── User ID: 1207407956930658304 (Botometer check failed)
+│   ├── __aurelius
 │   ├── countinbitcoin
-│   ├── greenspand (bot: 25% probability)
-│   └── iTruth84 (bot: 79% probability)
-├── DocumentCrypt0 (bot: 79% probability)
-├── DocumentingBTC (bot: 79% probability)
-│   ├── 1738AlmalikTV (bot: 79% probability)
-│   ├── ALIHASHEMSEIF (bot: 73% probability)
-│   ├── AllanJavierMeji (bot: 79% probability)
-│   ├── BTCSolvesThis (bot: 79% probability)
-│   ├── BitForBeer (bot: 76% probability)
-│   ├── BnbYellow (bot: 79% probability)
-│   ├── CoEstoi (bot: 80% probability)
-│   ├── Crypt1Buddha (bot: 79% probability)
-│   ├── Fassfuss1 (bot: 70% probability)
-│   ├── HodlSimply (bot: 79% probability)
+│   └── greenspand
+├── DocumentCrypt0
+├── DocumentingBTC
+│   ├── 1738AlmalikTV
+│   ├── ALIHASHEMSEIF
+│   ├── AllanJavierMeji
+│   ├── BTCSolvesThis
+│   ├── BitForBeer
+│   ├── BnbYellow
+│   ├── CoEstoi
+│   ├── Crypt1Buddha
+│   ├── Fassfuss1
+│   ├── HodlSimply
 │   ├── Jayde0077 (bot: 83% probability)
-│   ├── JohnNjeki (bot: 60% probability)
-│   ├── MacbethCoin (bot: 78% probability)
-│   ├── Mohamedkah23 (bot: 80% probability)
-│   ├── SolvingEngProbs (bot: 25% probability)
-│   ├── StaeubliThomas (bot: 80% probability)
-│   ├── ZafnatPaneah (bot: 77% probability)
-│   ├── adriannajanek (bot: 80% probability)
-│   ├── anthonycoomia (bot: 79% probability)
-│   ├── aryableng (bot: 23% probability)
-│   ├── bobgeld67120439 (bot: 79% probability)
-│   ├── bonker_99 (bot: 79% probability)
-│   ├── c_hashreview (bot: 44% probability)
-│   ├── ceasefirexxv (bot: 44% probability)
-│   ├── crypto_whaley (bot: 79% probability)
-│   │   └── robvsnature (bot: 50% probability)
-│   ├── dcunha_dwayne (bot: 67% probability)
-│   ├── dee_bates (bot: 57% probability)
-│   ├── del_griffth (bot: 79% probability)
-│   ├── escorpioandrey (bot: 79% probability)
-│   ├── fedearevalook (bot: 52% probability)
+│   ├── JohnNjeki
+│   ├── MacbethCoin
+│   ├── Mohamedkah23
+│   ├── SolvingEngProbs
+│   ├── StaeubliThomas
+│   ├── ZafnatPaneah
+│   ├── adriannajanek
+│   ├── anthonycoomia
+│   ├── aryableng
+│   ├── bobgeld67120439
+│   ├── bonker_99
+│   ├── c_hashreview
+│   ├── ceasefirexxv
+│   ├── crypto_whaley
+│   │   └── robvsnature
+│   ├── dcunha_dwayne
+│   ├── dee_bates
+│   ├── del_griffth
+│   ├── escorpioandrey
+│   ├── fedearevalook
 │   ├── frankdelalla
-│   ├── genjimain_21 (bot: 79% probability)
-│   ├── gznymbrf1x9 (bot: 77% probability)
-│   ├── idealbitcoins (bot: 22% probability)
-│   ├── jagsully (bot: 25% probability)
-│   ├── kofijunr (bot: 79% probability)
-│   ├── kshivam123 (bot: 76% probability)
-│   │   └── StaeubliThomas (bot: 80% probability)
-│   ├── larsdobos (bot: 43% probability)
+│   ├── genjimain_21
+│   ├── gznymbrf1x9
+│   ├── idealbitcoins
+│   ├── jagsully
+│   ├── kofijunr
+│   ├── kshivam123
+│   │   └── StaeubliThomas
+│   ├── larsdobos
 │   ├── lucasttds (bot: 89% probability)
-│   ├── pablo_047 (bot: 79% probability)
-│   ├── pengachu (bot: 27% probability)
-│   │   └── SamyXmr (bot: 79% probability)
-│   ├── r0drigocesar (bot: 80% probability)
-│   ├── rwoster (bot: 22% probability)
-│   │   └── BourbonicP (bot: 44% probability)
-│   │       └── rwoster (bot: 22% probability)
-│   ├── saggy_taint (bot: 79% probability)
-│   ├── ubad_al (bot: 70% probability)
-│   ├── yash434 (bot: 30% probability)
-│   │   ├── Trip_0d (bot: 72% probability)
-│   │   │   └── Korbyn0 (bot: 74% probability)
-│   │   │       └── Trip_0d (bot: 72% probability)
-│   │   ├── WangLeo04563797 (bot: 77% probability)
-│   │   │   └── deletetwitt3r (bot: 41% probability)
-│   │   │       └── MrBobGilbert (bot: 44% probability)
-│   │   └── hyperskivo (bot: 36% probability)
-│   └── youngjefe45 (bot: 79% probability)
-├── DodgeElon4 (bot: 78% probability)
-├── Dogecoin_India_ (bot: 50% probability)
-│   └── Dogecoin_India_ (bot: 50% probability)
-├── Dogecoin_India_ (bot: 50% probability)
-├── Dogecoin_India_ (bot: 50% probability)
-├── Dogecoin_India_ (bot: 50% probability)
-├── DogsOfWar15 (bot: 79% probability)
-├── DollarDying (bot: 78% probability)
-│   └── BROQriches (bot: 22% probability)
-│       └── DollarDying (bot: 78% probability)
-├── DombSy (bot: 57% probability)
-├── DookieOnTheFed (bot: 50% probability)
-├── DrSki_Bum (bot: 78% probability)
-├── DrStevenDeWolf (bot: 55% probability)
-├── Dracarys1804 (bot: 67% probability)
-├── Dream001music (bot: 30% probability)
-├── EcashFtw (bot: 76% probability)
-├── EdgeWallet (bot: 27% probability)
-├── ElMaris66569868 (bot: 79% probability)
-├── ElieMesso (bot: 27% probability)
-├── Emc2Bit (bot: 78% probability)
-├── EmilFilm (bot: 30% probability)
-├── EndeavourTomor1 (bot: 78% probability)
-├── Engculturabtc (bot: 78% probability)
-├── EngineeredMoney (bot: 79% probability)
-├── EnnePoe (bot: 30% probability)
-├── EnterNomad (bot: 79% probability)
-├── Erwin_Schroedy (bot: 64% probability)
-├── EvanHerpin1 (bot: 67% probability)
-├── Everflow35441 (bot: 79% probability)
-├── Everflow35441 (bot: 79% probability)
-├── Exonumia21 (bot: 55% probability)
-├── ExpandyerMined (bot: 25% probability)
-├── EyeOfTheKing1 (bot: 36% probability)
-│   ├── CryptoBagginz (bot: 47% probability)
-│   ├── IntoCrypto2112 (bot: 52% probability)
-│   └── gcharbey (bot: 69% probability)
-├── FORTooNEY (bot: 27% probability)
-├── FaizanHayek (bot: 74% probability)
-├── Falcho04 (bot: 43% probability)
-│   └── Falcho04 (bot: 43% probability)
-├── Fe2O3_in (bot: 77% probability)
-├── FirstLa14340074 (bot: 77% probability)
-├── Fran1991444 (bot: 79% probability)
-├── Frans_Maluleka (bot: 33% probability)
-├── FreedomMaxima (bot: 30% probability)
-│   └── qbit69 (bot: 33% probability)
-│       └── FreedomMaxima (bot: 30% probability)
-├── FrogArmyFren (bot: 79% probability)
-├── GGDiversificat1 (bot: 78% probability)
-├── GM_Hines (bot: 55% probability)
-├── G_rantherzberg (bot: 79% probability)
+│   ├── pablo_047
+│   ├── pengachu
+│   │   └── SamyXmr
+│   ├── r0drigocesar
+│   ├── rwoster
+│   │   └── BourbonicP
+│   │       └── rwoster
+│   ├── saggy_taint
+│   ├── ubad_al
+│   ├── yash434
+│   │   ├── Trip_0d
+│   │   │   └── Korbyn0
+│   │   │       └── Trip_0d
+│   │   ├── WangLeo04563797
+│   │   │   └── deletetwitt3r
+│   │   │       └── MrBobGilbert
+│   │   └── hyperskivo
+│   └── youngjefe45
+├── DodgeElon4
+├── Dogecoin_India_
+│   └── Dogecoin_India_
+├── Dogecoin_India_
+├── Dogecoin_India_
+├── Dogecoin_India_
+├── DogsOfWar15
+├── DollarDying
+│   └── BROQriches
+│       └── DollarDying
+├── DombSy
+├── DookieOnTheFed
+├── DrSki_Bum
+├── DrStevenDeWolf
+├── Dracarys1804
+├── Dream001music
+├── EcashFtw
+├── EdgeWallet
+├── ElMaris66569868
+├── ElieMesso
+├── Emc2Bit
+├── EmilFilm
+├── EndeavourTomor1
+├── Engculturabtc
+├── EngineeredMoney
+├── EnnePoe
+├── EnterNomad
+├── Erwin_Schroedy
+├── EvanHerpin1
+├── Everflow35441
+├── Everflow35441
+├── Exonumia21
+├── ExpandyerMined
+├── EyeOfTheKing1
+│   ├── CryptoBagginz
+│   ├── IntoCrypto2112
+│   └── gcharbey
+├── FORTooNEY
+├── FaizanHayek
+├── Falcho04
+│   └── Falcho04
+├── Fe2O3_in
+├── FirstLa14340074
+├── Fran1991444
+├── Frans_Maluleka
+├── FreedomMaxima
+│   └── qbit69
+│       └── FreedomMaxima
+├── FrogArmyFren
+├── GGDiversificat1
+├── GM_Hines
+├── G_rantherzberg
 ├── Gen_R_8
-├── Genemor01045469 (bot: 79% probability)
-├── GioFulghi (bot: 76% probability)
-├── Godmodder1 (bot: 62% probability)
-├── GoldsteinEman (bot: 36% probability)
-├── GusChiggins_01 (bot: 76% probability)
-├── HAUD81 (bot: 79% probability)
-├── HODLMeBad (bot: 50% probability)
-├── HTDcris (bot: 33% probability)
-├── H_Lewington (bot: 57% probability)
-├── Hannoooooon (bot: 44% probability)
-├── Haveanangle (bot: 78% probability)
-├── HederaHugegraph (bot: 79% probability)
-├── HenriArslanian (bot: 79% probability)
-├── HexSquadron (bot: 75% probability)
-├── HodlNameless (bot: 79% probability)
-├── HodlSimply (bot: 79% probability)
-├── Hodlmonger (bot: 77% probability)
-├── Hydromiracles (bot: 70% probability)
-├── HyperLi32158371 (bot: 79% probability)
-├── IVpuppiesXX (bot: 79% probability)
-├── IamEmmasey (bot: 64% probability)
-├── ImATruePerson (bot: 25% probability)
-├── IndependentHQU1 (bot: 67% probability)
-├── IndependentHQU1 (bot: 67% probability)
-├── IndianConstitu5 (bot: 67% probability)
-├── IngersalKumar (bot: 79% probability)
-│   └── ThomasFlynnV (bot: 22% probability)
-├── IntenseTrump (bot: 80% probability)
-├── Isotopes_CC (bot: 79% probability)
-├── ItsTeamGoodGuy1 (bot: 79% probability)
-├── JANGO1993 (bot: 41% probability)
-├── JKhanSwe (bot: 44% probability)
-├── JRcryptofuture (bot: 57% probability)
-├── JSCaldwell2 (bot: 22% probability)
-├── JViverosOffcl (bot: 54% probability)
-├── JaanVazeer (bot: 79% probability)
-├── JackRee46419168 (bot: 78% probability)
-├── James18853890 (bot: 75% probability)
-├── Jankymoose (bot: 65% probability)
-├── JeepCheroman (bot: 27% probability)
-├── JeffBooth (bot: 55% probability)
-│   ├── Isabellasanberg (bot: 36% probability)
-│   ├── JamesWood____ (bot: 44% probability)
-│   ├── NathanCPerry (bot: 36% probability)
+├── Genemor01045469
+├── GioFulghi
+├── Godmodder1
+├── GoldsteinEman
+├── GusChiggins_01
+├── HAUD81
+├── HODLMeBad
+├── HTDcris
+├── H_Lewington
+├── Hannoooooon
+├── Haveanangle
+├── HederaHugegraph
+├── HenriArslanian
+├── HexSquadron
+├── HodlNameless
+├── HodlSimply
+├── Hodlmonger
+├── Hydromiracles
+├── HyperLi32158371
+├── IVpuppiesXX
+├── IamEmmasey
+├── ImATruePerson
+├── IndependentHQU1
+├── IndependentHQU1
+├── IndianConstitu5
+├── IngersalKumar
+│   └── ThomasFlynnV
+├── IntenseTrump
+├── Isotopes_CC
+├── ItsTeamGoodGuy1
+├── JANGO1993
+├── JKhanSwe
+├── JRcryptofuture
+├── JSCaldwell2
+├── JViverosOffcl
+├── JaanVazeer
+├── JackRee46419168
+├── James18853890
+├── Jankymoose
+├── JeepCheroman
+├── JeffBooth
+│   ├── Isabellasanberg
+│   ├── JamesWood____
+│   ├── NathanCPerry
 │   ├── PhotoLawn (bot: 84% probability)
-│   └── dcunha_dwayne (bot: 67% probability)
-├── JeffSil78229167 (bot: 70% probability)
-├── JenischSteve (bot: 75% probability)
-├── Jethro01424861 (bot: 78% probability)
-├── Jhadjay (bot: 76% probability)
-├── JimM0re (bot: 52% probability)
-│   └── 100millionBTC (bot: 50% probability)
-├── Joe252002 (bot: 22% probability)
-├── JoeGee05882309 (bot: 79% probability)
-├── Joe_wants_BTC (bot: 57% probability)
-├── JohanSaenza (bot: 79% probability)
-├── Johnny_Chimpo_ (bot: 79% probability)
-├── Joker__Reloaded (bot: 73% probability)
-├── Jongunnar98 (bot: 39% probability)
-├── JoshuaC08297320 (bot: 57% probability)
-├── JrFitzFitness (bot: 67% probability)
-├── JuL71695233 (bot: 76% probability)
+│   └── dcunha_dwayne
+├── JeffSil78229167
+├── JenischSteve
+├── Jethro01424861
+├── Jhadjay
+├── JimM0re
+│   └── 100millionBTC
+├── Joe252002
+├── JoeGee05882309
+├── Joe_wants_BTC
+├── JohanSaenza
+├── Johnny_Chimpo_
+├── Joker__Reloaded
+├── Jongunnar98
+├── JoshuaC08297320
+├── JrFitzFitness
+├── JuL71695233
 ├── JulieVipdigital (bot: 88% probability)
-├── JumperWave (bot: 78% probability)
-├── JurrianBeeuwkes (bot: 28% probability)
-├── KBiz06833815 (bot: 75% probability)
-├── KFriedom (bot: 65% probability)
-├── KevinKean1 (bot: 78% probability)
-├── KorolSnezhanaya (bot: 78% probability)
-├── Kristennetten (bot: 52% probability)
-│   └── fraggelcurris (bot: 39% probability)
-│       └── Indirabegova05 (bot: 78% probability)
-│           └── fraggelcurris (bot: 39% probability)
-│               └── Indirabegova05 (bot: 78% probability)
-├── Kummerer94 (bot: 28% probability)
+├── JumperWave
+├── JurrianBeeuwkes
+├── KBiz06833815
+├── KFriedom
+├── KevinKean1
+├── KorolSnezhanaya
+├── Kristennetten
+│   └── fraggelcurris
+│       └── Indirabegova05
+│           └── fraggelcurris
+│               └── Indirabegova05
+├── Kummerer94
 ├── LBoooo (bot: 81% probability)
-├── Lepatolucas (bot: 31% probability)
-├── LerTaem (bot: 74% probability)
-├── LeraYtz (bot: 74% probability)
-│   └── StanislavH2 (bot: 52% probability)
-├── LethaboMbokazi (bot: 77% probability)
-├── LightsCrypto (bot: 79% probability)
-│   └── Alex67303835 (bot: 69% probability)
-├── LittleManPower (bot: 76% probability)
+├── Lepatolucas
+├── LerTaem
+├── LeraYtz
+│   └── StanislavH2
+├── LethaboMbokazi
+├── LightsCrypto
+│   └── Alex67303835
+├── LittleManPower
 ├── LizardPlanetary (bot: 81% probability)
 ├── Lokesh40953183 (bot: 93% probability)
-├── LorisMeliga (bot: 41% probability)
-├── LucaProsperi (bot: 60% probability)
-├── LyfeOfPELK (bot: 72% probability)
-├── Lytsout193 (bot: 25% probability)
-│   └── StakeHEX5555 (bot: 76% probability)
-├── MARIYAN_mariya (bot: 79% probability)
-├── MJ_Zero7 (bot: 33% probability)
-├── MYSTICALSMDG777 (bot: 41% probability)
-├── MacroStratChris (bot: 33% probability)
-├── MadMay33585981 (bot: 80% probability)
-├── MagicKrakening (bot: 36% probability)
-│   └── torontosinan (bot: 44% probability)
-├── Man__Uses (bot: 25% probability)
-├── ManiaPick (bot: 79% probability)
-├── MarcoTheHEXican (bot: 79% probability)
-├── MarkBus72631174 (bot: 57% probability)
-├── MarkMulvey (bot: 22% probability)
+├── LorisMeliga
+├── LucaProsperi
+├── LyfeOfPELK
+├── Lytsout193
+│   └── StakeHEX5555
+├── MARIYAN_mariya
+├── MJ_Zero7
+├── MYSTICALSMDG777
+├── MacroStratChris
+├── MadMay33585981
+├── MagicKrakening
+│   └── torontosinan
+├── Man__Uses
+├── ManiaPick
+├── MarcoTheHEXican
+├── MarkBus72631174
+├── MarkMulvey
 ├── Martin20369838 (bot: 88% probability)
-├── Masood61253388 (bot: 78% probability)
-├── Medusora (bot: 79% probability)
-├── MemeMessge_elon (bot: 79% probability)
-├── Michael35998213 (bot: 80% probability)
-├── Michela40323274 (bot: 76% probability)
-├── MikeRom06737909 (bot: 22% probability)
-├── MindMathMoney (bot: 73% probability)
-├── Mindset4_Life (bot: 60% probability)
-├── MirageWL8 (bot: 65% probability)
-├── MitauNyamai (bot: 27% probability)
-├── MochiSismondi (bot: 77% probability)
-├── Moman_go (bot: 77% probability)
-├── MooningD (bot: 79% probability)
-├── MrTimothyAllen (bot: 27% probability)
+├── Masood61253388
+├── Medusora
+├── MemeMessge_elon
+├── Michael35998213
+├── Michela40323274
+├── MikeRom06737909
+├── MindMathMoney
+├── Mindset4_Life
+├── MirageWL8
+├── MitauNyamai
+├── MochiSismondi
+├── Moman_go
+├── MooningD
+├── MrTimothyAllen
 │   └── LizardPlanetary (bot: 81% probability)
-├── NAJ_AJ (bot: 77% probability)
-├── NEARTHMUSIC (bot: 80% probability)
-├── NMinakhi (bot: 75% probability)
-├── Nabil02030 (bot: 52% probability)
-├── Naineel3 (bot: 79% probability)
-├── Nakadai_mon (bot: 79% probability)
-│   ├── Daniel4141414 (bot: 67% probability)
-│   │   └── Nakadai_mon (bot: 79% probability)
-│   │       └── Daniel4141414 (bot: 67% probability)
-│   │           └── Nakadai_mon (bot: 79% probability)
-│   │               └── Daniel4141414 (bot: 67% probability)
-│   │                   └── Nakadai_mon (bot: 79% probability)
-│   ├── DiligentNinja (bot: 55% probability)
-│   ├── aBitBullish (bot: 78% probability)
-│   │   └── Nakadai_mon (bot: 79% probability)
-│   │       └── aBitBullish (bot: 78% probability)
-│   │           └── Nakadai_mon (bot: 79% probability)
-│   │               └── aBitBullish (bot: 78% probability)
-│   └── roginkim (bot: 22% probability)
-│       └── Nakadai_mon (bot: 79% probability)
-├── Nanu_Sashu (bot: 80% probability)
-├── NathanLevy10 (bot: 79% probability)
-├── NelerOl97053252 (bot: 80% probability)
-├── NicholasHuff83 (bot: 77% probability)
-├── NicksonZeng (bot: 77% probability)
-├── NodeSanto (bot: 80% probability)
+├── NAJ_AJ
+├── NEARTHMUSIC
+├── NMinakhi
+├── Nabil02030
+├── Naineel3
+├── Nakadai_mon
+│   ├── Daniel4141414
+│   │   └── Nakadai_mon
+│   │       └── Daniel4141414
+│   │           └── Nakadai_mon
+│   │               └── Daniel4141414
+│   │                   └── Nakadai_mon
+│   ├── DiligentNinja
+│   ├── aBitBullish
+│   │   └── Nakadai_mon
+│   │       └── aBitBullish
+│   │           └── Nakadai_mon
+│   │               └── aBitBullish
+│   └── roginkim
+│       └── Nakadai_mon
+├── Nanu_Sashu
+├── NathanLevy10
+├── NelerOl97053252
+├── NicholasHuff83
+├── NicksonZeng
+├── NodeSanto
 ├── NungarayTony (bot: 93% probability)
-├── OAT68667907 (bot: 79% probability)
-├── OGCapalotty (bot: 79% probability)
-├── ONDRE_NTH (bot: 79% probability)
-├── OdlanraZaid (bot: 27% probability)
-├── OlsethTyler (bot: 78% probability)
-├── OlvisGil (bot: 41% probability)
-├── OneWill_W (bot: 25% probability)
-├── OwenKel15982555 (bot: 75% probability)
-├── OwenKel15982555 (bot: 75% probability)
-├── PARobert (bot: 36% probability)
-├── PN0nbinary (bot: 71% probability)
-├── PRF330 (bot: 31% probability)
-├── ParabolicGuy (bot: 77% probability)
-├── PatricRc (bot: 72% probability)
-├── Paul08113166 (bot: 44% probability)
-├── Pedra999 (bot: 79% probability)
-├── PeterJo47499543 (bot: 78% probability)
-├── PeterSh12833203 (bot: 79% probability)
-├── Phil_Lougher (bot: 27% probability)
+├── OAT68667907
+├── OGCapalotty
+├── ONDRE_NTH
+├── OdlanraZaid
+├── OlsethTyler
+├── OlvisGil
+├── OneWill_W
+├── OwenKel15982555
+├── OwenKel15982555
+├── PARobert
+├── PN0nbinary
+├── PRF330
+├── ParabolicGuy
+├── PatricRc
+├── Paul08113166
+├── Pedra999
+├── PeterJo47499543
+├── PeterSh12833203
+├── Phil_Lougher
 ├── PhotoLawn (bot: 84% probability)
-├── Pidgeon07970880 (bot: 74% probability)
-├── Pilsner_Maxwell (bot: 33% probability)
-├── PlanHedera (bot: 79% probability)
-├── PoshakDua (bot: 25% probability)
-├── PostBio (bot: 22% probability)
-├── Priyanka5158901 (bot: 79% probability)
-├── ProfStake (bot: 79% probability)
-├── PsycheJujutsu (bot: 33% probability)
-├── Pun_Tweets (bot: 41% probability)
-├── QhsNYJ (bot: 30% probability)
-│   └── QhsNYJ (bot: 30% probability)
-├── Qvantatitive (bot: 55% probability)
+├── Pidgeon07970880
+├── Pilsner_Maxwell
+├── PlanHedera
+├── PoshakDua
+├── PostBio
+├── Priyanka5158901
+├── ProfStake
+├── PsycheJujutsu
+├── Pun_Tweets
+├── QhsNYJ
+│   └── QhsNYJ
+├── Qvantatitive
 ├── RAMolledo
-├── ROM_OVERRIDE (bot: 33% probability)
-├── RadicaIEd (bot: 73% probability)
-├── Rafallol7 (bot: 71% probability)
-├── RahelJhirad (bot: 39% probability)
-├── Rahul99776 (bot: 78% probability)
-├── Rajiv_io (bot: 79% probability)
-├── RayhanCA (bot: 69% probability)
-├── RealCSharp (bot: 44% probability)
-├── RealEmmetKelly (bot: 44% probability)
-├── RealKaiser_Soze (bot: 57% probability)
-├── ReddyChain (bot: 80% probability)
-├── Rekt_Patrol (bot: 79% probability)
-├── Richard_Flud (bot: 79% probability)
-├── Robben4days (bot: 73% probability)
-├── Robert36070821 (bot: 79% probability)
-├── RobertoBirquet (bot: 30% probability)
-├── RobinLiesnfraud (bot: 36% probability)
-├── Rog3rSm1th (bot: 79% probability)
-├── Roger_CD (bot: 80% probability)
-├── RonPaulKicksAss (bot: 79% probability)
-├── RonyGuz08 (bot: 80% probability)
+├── ROM_OVERRIDE
+├── RadicaIEd
+├── Rafallol7
+├── RahelJhirad
+├── Rahul99776
+├── Rajiv_io
+├── RayhanCA
+├── RealCSharp
+├── RealEmmetKelly
+├── RealKaiser_Soze
+├── ReddyChain
+├── Rekt_Patrol
+├── Richard_Flud
+├── Robben4days
+├── Robert36070821
+├── RobertoBirquet
+├── RobinLiesnfraud
+├── Rog3rSm1th
+├── Roger_CD
+├── RonPaulKicksAss
+├── RonyGuz08
 ├── Roy10103 (bot: 82% probability)
-├── RudyOrtea (bot: 33% probability)
-├── RustyKu80982058 (bot: 79% probability)
-├── S54guy (bot: 79% probability)
-├── SAT05HI (bot: 33% probability)
+├── RudyOrtea
+├── RustyKu80982058
+├── S54guy
+├── SAT05HI
 ├── SB_Shaggy
-├── SDMEDIAYT (bot: 52% probability)
-├── SL_BTC (bot: 55% probability)
-├── SabeMichel (bot: 74% probability)
-│   └── astfroglogy (bot: 41% probability)
+├── SDMEDIAYT
+├── SL_BTC
+├── SabeMichel
+│   └── astfroglogy
 ├── Sai96701272 (bot: 93% probability)
-├── Sajad_Jalilian (bot: 67% probability)
-├── Samanthack11 (bot: 79% probability)
-│   └── yupi13575112 (bot: 77% probability)
-├── SamuelBeaudry10 (bot: 77% probability)
-├── SaschQo (bot: 79% probability)
-├── Sephi08273175 (bot: 54% probability)
-├── SerCat21 (bot: 33% probability)
-├── SergeiIakhnin (bot: 41% probability)
-├── SergeiNakamoto (bot: 69% probability)
-├── Sfimal (bot: 25% probability)
-├── ShadyKing357 (bot: 25% probability)
-├── ShanMaoZhu1 (bot: 79% probability)
-├── ShanklandMax (bot: 41% probability)
-├── Shibarmynews (bot: 79% probability)
+├── Sajad_Jalilian
+├── Samanthack11
+│   └── yupi13575112
+├── SamuelBeaudry10
+├── SaschQo
+├── Sephi08273175
+├── SerCat21
+├── SergeiIakhnin
+├── SergeiNakamoto
+├── Sfimal
+├── ShadyKing357
+├── ShanMaoZhu1
+├── ShanklandMax
+├── Shibarmynews
 ├── ShoaibK07809787 (bot: 85% probability)
 ├── ShuvaOmri (bot: 82% probability)
-├── Singula59720021 (bot: 79% probability)
-├── Son_of_DOGE (bot: 78% probability)
-├── Source_33_ (bot: 33% probability)
+├── Singula59720021
+├── Son_of_DOGE
+├── Source_33_
 ├── Sparkle21m
-├── SparkyCCline (bot: 78% probability)
-├── SrikanthShettyK (bot: 64% probability)
-├── St3gm4n (bot: 67% probability)
-├── Staakees (bot: 60% probability)
-├── Stackoclock (bot: 30% probability)
-├── StayingPoor (bot: 76% probability)
-├── Steven_W_Day (bot: 25% probability)
-├── Streaming_Sats (bot: 22% probability)
-│   ├── 5hitcoindust (bot: 77% probability)
-│   └── Bernard77661198 (bot: 65% probability)
-├── StreetRocker (bot: 78% probability)
-├── StuntmanDan_ (bot: 27% probability)
-├── SultanDman (bot: 60% probability)
+├── SparkyCCline
+├── SrikanthShettyK
+├── St3gm4n
+├── Staakees
+├── Stackoclock
+├── StayingPoor
+├── Steven_W_Day
+├── Streaming_Sats
+│   ├── 5hitcoindust
+│   └── Bernard77661198
+├── StreetRocker
+├── StuntmanDan_
+├── SultanDman
 ├── SulymanNafiu
 ├── Supreem
-├── SusanHallberg11 (bot: 70% probability)
-├── T9wurd (bot: 41% probability)
-├── THREEBRAVO (bot: 27% probability)
-├── TJSMoura (bot: 30% probability)
-├── TTT44309616 (bot: 80% probability)
-├── TannyTanTan_T (bot: 41% probability)
-├── TaxiReds (bot: 79% probability)
-├── Tektaki4 (bot: 78% probability)
-├── TerlinguaP (bot: 70% probability)
-├── ThabangMaexx (bot: 22% probability)
-├── TheCandleInn (bot: 72% probability)
-├── TheDLTimes (bot: 79% probability)
-│   └── qbit69 (bot: 33% probability)
-│       └── TheDLTimes (bot: 79% probability)
-│           └── scylla440X (bot: 77% probability)
-│               └── TheDLTimes (bot: 79% probability)
-│                   └── scylla440X (bot: 77% probability)
-│                       └── TheDLTimes (bot: 79% probability)
-│                           └── scylla440X (bot: 77% probability)
-│                               └── TheDLTimes (bot: 79% probability)
-│                                   ├── qbit69 (bot: 33% probability)
-│                                   │   ├── TheDLTimes (bot: 79% probability)
-│                                   │   └── scylla440X (bot: 77% probability)
-│                                   └── scylla440X (bot: 77% probability)
-├── TheHoff305 (bot: 30% probability)
-├── TheLastAesir (bot: 44% probability)
-├── TheMaverickOut1 (bot: 78% probability)
-├── TheMcFreedom (bot: 79% probability)
-├── TheSamApata (bot: 36% probability)
-├── TheVisualMonkey (bot: 50% probability)
-├── ThomasLamkin (bot: 79% probability)
-├── TikoTraders (bot: 72% probability)
-├── TimDong16 (bot: 74% probability)
-├── TimMill52024962 (bot: 36% probability)
+├── SusanHallberg11
+├── T9wurd
+├── THREEBRAVO
+├── TJSMoura
+├── TTT44309616
+├── TannyTanTan_T
+├── TaxiReds
+├── Tektaki4
+├── TerlinguaP
+├── ThabangMaexx
+├── TheCandleInn
+├── TheDLTimes
+│   └── qbit69
+│       └── TheDLTimes
+│           └── scylla440X
+│               └── TheDLTimes
+│                   └── scylla440X
+│                       └── TheDLTimes
+│                           └── scylla440X
+│                               └── TheDLTimes
+│                                   ├── qbit69
+│                                   │   ├── TheDLTimes
+│                                   │   └── scylla440X
+│                                   └── scylla440X
+├── TheHoff305
+├── TheLastAesir
+├── TheMaverickOut1
+├── TheMcFreedom
+├── TheSamApata
+├── TheVisualMonkey
+├── ThomasLamkin
+├── TikoTraders
+├── TimDong16
+├── TimMill52024962
 ├── Title_Is_Missin
-├── Tomashko77 (bot: 79% probability)
-├── ToorAmal (bot: 57% probability)
-├── Toritocavenaghi (bot: 70% probability)
-├── TraeJaxen (bot: 39% probability)
-├── Tropicalingles (bot: 78% probability)
-├── Twetch40880 (bot: 73% probability)
+├── Tomashko77
+├── ToorAmal
+├── Toritocavenaghi
+├── TraeJaxen
+├── Tropicalingles
+├── Twetch40880
 ├── TylerChambers (bot: 86% probability)
-├── UNREG83841926 (bot: 78% probability)
-├── UnklePin (bot: 79% probability)
-├── VKaraboulad (bot: 77% probability)
-├── VenuE98978504 (bot: 78% probability)
-├── VeryExotic (bot: 47% probability)
-├── VijarKohli (bot: 71% probability)
-├── VijendrGaorh (bot: 36% probability)
-├── VillageIdiotDuh (bot: 25% probability)
-├── VitCerny1 (bot: 44% probability)
-├── WIZARDTOSHI (bot: 80% probability)
-├── WealthMoeLester (bot: 79% probability)
-│   └── JohnWRichJRBas1 (bot: 79% probability)
-├── WentGhost (bot: 36% probability)
-├── WhitePo01714045 (bot: 79% probability)
-├── WholeMarsBlog (bot: 78% probability)
-│   └── fred43150853 (bot: 79% probability)
-├── Will3GRA (bot: 78% probability)
-├── X_Holyspawn_X2 (bot: 79% probability)
-├── Xxoax (bot: 30% probability)
-├── YTournie (bot: 28% probability)
+├── UNREG83841926
+├── UnklePin
+├── User ID: 1207407956930658304 (Botometer check failed)
+├── User ID: 265150031 (Botometer check failed)
+├── VKaraboulad
+├── VenuE98978504
+├── VeryExotic
+├── VijarKohli
+├── VijendrGaorh
+├── VillageIdiotDuh
+├── VitCerny1
+├── WIZARDTOSHI
+├── WealthMoeLester
+│   └── JohnWRichJRBas1
+├── WentGhost
+├── WhitePo01714045
+├── WholeMarsBlog
+│   └── fred43150853
+├── Will3GRA
+├── X_Holyspawn_X2
+├── Xxoax
+├── YTournie
 ├── Z13512115 (bot: 81% probability)
-├── ZakariaBacha10 (bot: 79% probability)
-├── ZanguiloP (bot: 55% probability)
-├── Zee_void (bot: 62% probability)
-├── ZenModeTrading (bot: 64% probability)
-├── Zeta_Reticuli87 (bot: 76% probability)
-├── ZhendongChen3 (bot: 77% probability)
-├── _BRCooper (bot: 77% probability)
-├── _Cmmon_ (bot: 65% probability)
-├── _CyberVinny (bot: 76% probability)
-│   ├── DavitSoselia_ (bot: 79% probability)
-│   ├── RaptureTende (bot: 75% probability)
-│   └── RemindMe_OfThis (bot: 79% probability)
-│       └── WealthMoeLester (bot: 79% probability)
-├── _Nuolo_ (bot: 76% probability)
-├── __Aava__ (bot: 80% probability)
-├── __jajo__ (bot: 26% probability)
+├── ZakariaBacha10
+├── ZanguiloP
+├── Zee_void
+├── ZenModeTrading
+├── Zeta_Reticuli87
+├── ZhendongChen3
+├── _BRCooper
+├── _Cmmon_
+├── _CyberVinny
+│   ├── DavitSoselia_
+│   ├── RaptureTende
+│   └── RemindMe_OfThis
+│       └── WealthMoeLester
+├── _Nuolo_
+├── __Aava__
+├── __jajo__
 ├── _agustinjb1
-├── _brotato_chip__ (bot: 44% probability)
-├── _donReyes (bot: 33% probability)
-├── _igbyy (bot: 25% probability)
-├── _shril_ (bot: 33% probability)
-├── _shwayz (bot: 25% probability)
-├── _yyGlobeTrotter (bot: 62% probability)
-├── a_meta4 (bot: 27% probability)
-├── abhijitghoshin (bot: 22% probability)
-├── adamhoov (bot: 79% probability)
-│   ├── TeslaTomMY1 (bot: 76% probability)
-│   └── seinfeldguru (bot: 55% probability)
-├── adityabapat12 (bot: 36% probability)
-├── adolphilosopher (bot: 47% probability)
-├── aeopch (bot: 33% probability)
-├── afshineemrani (bot: 30% probability)
-├── afshineemrani (bot: 30% probability)
-├── akanazara (bot: 22% probability)
-├── akshayincharge (bot: 39% probability)
-├── aletz99 (bot: 60% probability)
-├── allafKhan (bot: 30% probability)
-├── alurabrava (bot: 27% probability)
-├── an1ndya (bot: 39% probability)
-├── ancap_pleb (bot: 79% probability)
-├── andre_venter (bot: 47% probability)
-├── andres78328647 (bot: 78% probability)
-├── andrew_boho (bot: 50% probability)
-│   └── oklahodl1 (bot: 25% probability)
-├── anonbitcoiner1 (bot: 79% probability)
-├── anthonycoomia (bot: 79% probability)
-├── anthonyrappa4 (bot: 80% probability)
-├── anunnaki1202 (bot: 79% probability)
-├── aphonso23397028 (bot: 79% probability)
-├── arshvam (bot: 74% probability)
-├── arshvam (bot: 74% probability)
-├── arunhimself14 (bot: 39% probability)
-├── astfroglogy (bot: 41% probability)
-├── astudy (bot: 41% probability)
-├── babydogecutie (bot: 78% probability)
-├── beaboutyourlife (bot: 79% probability)
-├── bigjuani (bot: 59% probability)
-├── billybirry (bot: 39% probability)
+├── _brotato_chip__
+├── _donReyes
+├── _igbyy
+├── _shril_
+├── _shwayz
+├── _yyGlobeTrotter
+├── a_meta4
+├── abhijitghoshin
+├── adamhoov
+│   ├── TeslaTomMY1
+│   └── seinfeldguru
+├── adityabapat12
+├── adolphilosopher
+├── aeopch
+├── afshineemrani
+├── afshineemrani
+├── akanazara
+├── akshayincharge
+├── aletz99
+├── allafKhan
+├── alurabrava
+├── an1ndya
+├── ancap_pleb
+├── andre_venter
+├── andres78328647
+├── andrew_boho
+│   └── oklahodl1
+├── anonbitcoiner1
+├── anthonycoomia
+├── anthonyrappa4
+├── anunnaki1202
+├── aphonso23397028
+├── arshvam
+├── arshvam
+├── arunhimself14
+├── astfroglogy
+├── astudy
+├── babydogecutie
+├── beaboutyourlife
+├── bigjuani
+├── billybirry
 ├── birthdayjesus1 (bot: 81% probability)
-├── bitcoin62 (bot: 77% probability)
-├── bitcoin_eagle (bot: 57% probability)
-├── bitcoin_eagle (bot: 57% probability)
-├── bitcoinbernd (bot: 77% probability)
+├── bitcoin62
+├── bitcoin_eagle
+├── bitcoin_eagle
+├── bitcoinbernd
 ├── bitcoinhutch
-├── boycenotes (bot: 67% probability)
-├── brbtherooster (bot: 78% probability)
-├── brent_kt (bot: 33% probability)
-├── brosayss (bot: 78% probability)
-├── btcOverBitches (bot: 39% probability)
-├── burhanahmdsatti (bot: 79% probability)
-├── business_birdie (bot: 36% probability)
-├── butler_chris (bot: 57% probability)
-├── calwayman (bot: 22% probability)
-├── caninana5 (bot: 33% probability)
+├── boycenotes
+├── brbtherooster
+├── brent_kt
+├── brosayss
+├── btcOverBitches
+├── burhanahmdsatti
+├── business_birdie
+├── butler_chris
+├── calwayman
+├── caninana5
 ├── carverSL (bot: 82% probability)
-├── cclassonyoutube (bot: 65% probability)
-├── cdxxdickie (bot: 47% probability)
-├── charlly987 (bot: 30% probability)
+├── cclassonyoutube
+├── cdxxdickie
+├── charlly987
 ├── cisselic
-├── citrixfarsi (bot: 74% probability)
-├── clarkvict0r (bot: 76% probability)
-├── claudes24060374 (bot: 70% probability)
-├── cosmicbubble02 (bot: 27% probability)
-├── criptolawyer (bot: 79% probability)
-│   └── fnkmnk (bot: 52% probability)
-│       └── criptolawyer (bot: 79% probability)
-├── cristianvaldez5 (bot: 43% probability)
-├── crusa_tv (bot: 71% probability)
-├── crypto_enigmas (bot: 79% probability)
-├── crypto_hub247 (bot: 79% probability)
-├── cryptogency (bot: 79% probability)
-├── cryptoknackmy (bot: 79% probability)
-├── cryptotraveler (bot: 39% probability)
-├── ctindale (bot: 44% probability)
-│   └── ChasingFractals (bot: 27% probability)
-├── culellc2 (bot: 41% probability)
-├── cyrptoem (bot: 79% probability)
-├── cz_bitcoin (bot: 78% probability)
-├── d635nk (bot: 72% probability)
-├── dagron_maste (bot: 64% probability)
-├── damienstanton (bot: 33% probability)
-├── danfriedmansira (bot: 79% probability)
-├── daviddelgado (bot: 64% probability)
-├── deadabovethelip (bot: 22% probability)
-├── deepanshuv04 (bot: 77% probability)
-├── deletetwitt3r (bot: 41% probability)
-├── dennis_V8 (bot: 77% probability)
-├── devilninja7777 (bot: 78% probability)
-├── dextercraftit (bot: 76% probability)
-├── diamondclawz (bot: 52% probability)
-├── dileepkush (bot: 41% probability)
-├── dmishatr (bot: 30% probability)
-├── dmlayt (bot: 22% probability)
-├── doge_macho (bot: 79% probability)
-├── doge_rising (bot: 79% probability)
-├── dogebegger (bot: 78% probability)
-├── dolomiteHEX (bot: 69% probability)
-├── domnichma (bot: 80% probability)
-├── domscrypto (bot: 65% probability)
-├── don34461854 (bot: 76% probability)
-├── donnyshields (bot: 57% probability)
-├── donxquijote (bot: 36% probability)
-├── draleSV (bot: 78% probability)
-├── draleSV (bot: 78% probability)
-├── drvnOo (bot: 30% probability)
-│   └── drvnOo (bot: 30% probability)
-│       └── drvnOo (bot: 30% probability)
-│           └── drvnOo (bot: 30% probability)
-├── edurcTrade (bot: 52% probability)
-├── eedobarganes (bot: 22% probability)
+├── citrixfarsi
+├── clarkvict0r
+├── claudes24060374
+├── cosmicbubble02
+├── criptolawyer
+│   └── fnkmnk
+│       └── criptolawyer
+├── cristianvaldez5
+├── crusa_tv
+├── crypto_enigmas
+├── crypto_hub247
+├── cryptogency
+├── cryptoknackmy
+├── cryptotraveler
+├── ctindale
+│   └── ChasingFractals
+├── culellc2
+├── cyrptoem
+├── cz_bitcoin
+├── d635nk
+├── dagron_maste
+├── damienstanton
+├── danfriedmansira
+├── daviddelgado
+├── deadabovethelip
+├── deepanshuv04
+├── deletetwitt3r
+├── dennis_V8
+├── devilninja7777
+├── dextercraftit
+├── diamondclawz
+├── dileepkush
+├── dmishatr
+├── dmlayt
+├── doge_macho
+├── doge_rising
+├── dogebegger
+├── dolomiteHEX
+├── domnichma
+├── domscrypto
+├── don34461854
+├── donnyshields
+├── donxquijote
+├── draleSV
+├── draleSV
+├── drvnOo
+│   └── drvnOo
+│       └── drvnOo
+│           └── drvnOo
+├── edurcTrade
+├── eedobarganes
 ├── emirxcix (bot: 89% probability)
-├── emivelazquez6 (bot: 30% probability)
-├── emrebh (bot: 80% probability)
-├── enamored_3 (bot: 27% probability)
-├── escorpioandrey (bot: 79% probability)
-├── escriboficcion (bot: 79% probability)
-├── ethemerals (bot: 79% probability)
-├── evanhssn0x (bot: 27% probability)
-├── fans_doge (bot: 79% probability)
-├── fau1in (bot: 44% probability)
-│   └── Tech_Randall (bot: 60% probability)
-│       ├── Tech_Randall (bot: 60% probability)
-│       └── fau1in (bot: 44% probability)
-├── fcozturk14 (bot: 76% probability)
-├── ferozzzzz (bot: 46% probability)
-├── ferwieprod (bot: 62% probability)
-├── finncrypto_ (bot: 78% probability)
-│   └── Eazy__BZ (bot: 70% probability)
-├── flegmaticus (bot: 65% probability)
-├── florusp (bot: 41% probability)
-├── flyhighLi (bot: 77% probability)
-├── fraggelcurris (bot: 39% probability)
-├── fred43150853 (bot: 79% probability)
-├── freethi53085197 (bot: 79% probability)
-├── fullstackdev9 (bot: 74% probability)
-├── gabri_bernard (bot: 23% probability)
-├── gabrielhaines (bot: 39% probability)
-├── garciajones13 (bot: 30% probability)
-├── gates_shit (bot: 64% probability)
-├── geekmdtravis (bot: 52% probability)
-├── gingerbuggamer (bot: 77% probability)
-├── girishpie (bot: 79% probability)
+├── emivelazquez6
+├── emrebh
+├── enamored_3
+├── escorpioandrey
+├── escriboficcion
+├── ethemerals
+├── evanhssn0x
+├── fans_doge
+├── fau1in
+│   └── Tech_Randall
+│       ├── Tech_Randall
+│       └── fau1in
+├── fcozturk14
+├── ferozzzzz
+├── ferwieprod
+├── finncrypto_
+│   └── Eazy__BZ
+├── flegmaticus
+├── florusp
+├── flyhighLi
+├── fraggelcurris
+├── fred43150853
+├── freethi53085197
+├── fullstackdev9
+├── gabri_bernard
+├── gabrielhaines
+├── garciajones13
+├── gates_shit
+├── geekmdtravis
+├── gingerbuggamer
+├── girishpie
 ├── giwrgos42451877 (bot: 92% probability)
-├── gsh_17 (bot: 79% probability)
-│   └── ApolloNano (bot: 79% probability)
-├── gulagcitizen (bot: 73% probability)
-├── gweigatherer (bot: 36% probability)
-├── gzanganeh (bot: 25% probability)
+├── gsh_17
+│   └── ApolloNano
+├── gulagcitizen
+├── gweigatherer
+├── gzanganeh
 ├── hachiko_the (bot: 82% probability)
-├── halfsyrianguy (bot: 79% probability)
-├── hamismalekela (bot: 33% probability)
+├── halfsyrianguy
+├── hamismalekela
 ├── hansonjw
-├── hashemisougheh (bot: 79% probability)
-├── hashemisougheh (bot: 79% probability)
-├── hashirk18 (bot: 72% probability)
-├── hectormaluenda_ (bot: 27% probability)
-├── hemshah011 (bot: 79% probability)
-├── hexstag (bot: 70% probability)
-├── hodlbehavior (bot: 79% probability)
-├── hoodeveloper (bot: 79% probability)
-├── hypnoticfrog (bot: 46% probability)
-├── iLikeDaStock (bot: 64% probability)
-├── iTruth84 (bot: 79% probability)
-├── ialturki (bot: 64% probability)
-│   └── ralturki (bot: 57% probability)
-├── iansephton (bot: 27% probability)
+├── hashemisougheh
+├── hashemisougheh
+├── hashirk18
+├── hectormaluenda_
+├── hemshah011
+├── hexstag
+├── hodlbehavior
+├── hoodeveloper
+├── hypnoticfrog
+├── iLikeDaStock
+├── ialturki
+│   └── ralturki
+├── iansephton
 ├── ibeckermayer
-├── icodeblockchain (bot: 36% probability)
-├── info_sprinkles (bot: 52% probability)
-├── intrance90 (bot: 30% probability)
-├── ipluseverything (bot: 78% probability)
-├── itsJesseMuraya (bot: 27% probability)
-├── itsgopalkc (bot: 47% probability)
-├── itsreallyben (bot: 65% probability)
-│   └── robvsnature (bot: 50% probability)
+├── icodeblockchain
+├── info_sprinkles
+├── intrance90
+├── ipluseverything
+├── itsJesseMuraya
+├── itsgopalkc
+├── itsreallyben
+│   └── robvsnature
 ├── izproxy
-├── jackviking (bot: 64% probability)
-├── jacquesludik (bot: 55% probability)
-├── jaiminism (bot: 78% probability)
-├── jameswybrown (bot: 41% probability)
-├── janmarvan (bot: 33% probability)
-├── jasmourad (bot: 25% probability)
-├── jbbasics (bot: 27% probability)
-├── jean_makana (bot: 33% probability)
-├── jeancryptoqueen (bot: 80% probability)
-├── jneary94 (bot: 22% probability)
-├── joebitcoinorg (bot: 25% probability)
-├── johnmcorky (bot: 79% probability)
-│   └── Spectator_69 (bot: 79% probability)
-│       └── Spectator_69 (bot: 79% probability)
-├── johnrehill1 (bot: 25% probability)
-├── jp_cane (bot: 22% probability)
-├── ju9bo (bot: 79% probability)
-│   ├── 21_bitcoins (bot: 44% probability)
-│   │   └── BasedVandelay (bot: 78% probability)
-│   │       └── 21_bitcoins (bot: 44% probability)
-│   │           └── BasedVandelay (bot: 78% probability)
-│   ├── A1Tradin (bot: 78% probability)
-│   ├── ABS_0fficial (bot: 79% probability)
-│   ├── Andre_Brigham (bot: 79% probability)
-│   ├── Arizasant (bot: 80% probability)
-│   ├── AutoErnest (bot: 79% probability)
-│   ├── BTCNuggets (bot: 25% probability)
+├── jackviking
+├── jacquesludik
+├── jaiminism
+├── jameswybrown
+├── janmarvan
+├── jasmourad
+├── jbbasics
+├── jean_makana
+├── jeancryptoqueen
+├── jneary94
+├── joebitcoinorg
+├── johnmcorky
+│   └── Spectator_69
+│       └── Spectator_69
+├── johnrehill1
+├── jp_cane
+├── ju9bo
+│   ├── 21_bitcoins
+│   │   └── BasedVandelay
+│   │       └── 21_bitcoins
+│   │           └── BasedVandelay
+│   ├── A1Tradin
+│   ├── ABS_0fficial
+│   ├── Andre_Brigham
+│   ├── Arizasant
+│   ├── AutoErnest
+│   ├── BTCNuggets
 │   ├── Bernardoabdanur (bot: 83% probability)
-│   ├── Bevernhims (bot: 55% probability)
-│   ├── Blaseee (bot: 27% probability)
-│   ├── BlevCam (bot: 22% probability)
-│   ├── BrynSlvdor (bot: 36% probability)
-│   ├── CCollin41593797 (bot: 78% probability)
-│   ├── CoryMote (bot: 67% probability)
-│   ├── CryptoMoonDance (bot: 39% probability)
-│   ├── DeMiro90 (bot: 65% probability)
-│   ├── Dirtygringo1234 (bot: 36% probability)
-│   ├── Djeminsky (bot: 64% probability)
-│   ├── DouglasBarclay3 (bot: 39% probability)
-│   ├── DuuxBTC (bot: 41% probability)
-│   ├── EmilFilm (bot: 30% probability)
-│   │   └── acplnga (bot: 50% probability)
-│   ├── Ginrummy420 (bot: 79% probability)
-│   ├── GrandTheftAngel (bot: 33% probability)
-│   ├── GreaveJake (bot: 52% probability)
-│   ├── HAUD81 (bot: 79% probability)
-│   ├── InevitablyKS (bot: 78% probability)
+│   ├── Bevernhims
+│   ├── Blaseee
+│   ├── BlevCam
+│   ├── BrynSlvdor
+│   ├── CCollin41593797
+│   ├── CoryMote
+│   ├── CryptoMoonDance
+│   ├── DeMiro90
+│   ├── Dirtygringo1234
+│   ├── Djeminsky
+│   ├── DouglasBarclay3
+│   ├── DuuxBTC
+│   ├── EmilFilm
+│   │   └── acplnga
+│   ├── Ginrummy420
+│   ├── GrandTheftAngel
+│   ├── GreaveJake
+│   ├── HAUD81
+│   ├── InevitablyKS
 │   ├── JasonPo79426950 (bot: 83% probability)
-│   ├── Jcrux92 (bot: 27% probability)
-│   ├── JohnNaranjov (bot: 46% probability)
-│   ├── JohnRobertus (bot: 78% probability)
-│   ├── LfcBadges (bot: 52% probability)
-│   ├── ManFreedomScott (bot: 25% probability)
-│   ├── MariusC_HODL (bot: 79% probability)
-│   ├── Mejai_ (bot: 79% probability)
-│   ├── MrSaint__ (bot: 27% probability)
-│   ├── NoLoganHere (bot: 25% probability)
-│   ├── NwaigboOdera (bot: 77% probability)
-│   ├── PN0nbinary (bot: 71% probability)
-│   ├── PampDamp (bot: 76% probability)
-│   ├── PatricRc (bot: 72% probability)
-│   ├── Pexxxys (bot: 78% probability)
-│   ├── Ph93nguyen (bot: 77% probability)
-│   ├── PjotrP1 (bot: 80% probability)
-│   ├── RealKaiser_Soze (bot: 57% probability)
-│   ├── Reality34710364 (bot: 79% probability)
-│   ├── Riptide360 (bot: 65% probability)
-│   ├── RobertoBirquet (bot: 30% probability)
-│   ├── RyanRallyOh (bot: 27% probability)
-│   ├── SaMorteza (bot: 73% probability)
-│   │   └── girishpie (bot: 79% probability)
-│   │       ├── SaMorteza (bot: 73% probability)
-│   │       │   ├── attainingalpha1 (bot: 44% probability)
-│   │       │   ├── girishpie (bot: 79% probability)
-│   │       │   └── thisgoesnowhere (bot: 71% probability)
-│   │       │       ├── momau5 (bot: 36% probability)
-│   │       │       └── topimp21 (bot: 57% probability)
-│   │       │           └── topimp21 (bot: 57% probability)
-│   │       │               └── topimp21 (bot: 57% probability)
-│   │       │                   └── topimp21 (bot: 57% probability)
-│   │       ├── bitcoinistruth (bot: 78% probability)
-│   │       │   └── momau5 (bot: 36% probability)
-│   │       │       ├── bitcoinistruth (bot: 78% probability)
-│   │       │       │   └── momau5 (bot: 36% probability)
-│   │       │       │       └── bitcoinistruth (bot: 78% probability)
-│   │       │       │           └── momau5 (bot: 36% probability)
-│   │       │       │               └── bitcoinistruth (bot: 78% probability)
-│   │       │       │                   └── momau5 (bot: 36% probability)
-│   │       │       └── lo_commotion (bot: 64% probability)
-│   │       │           └── lo_commotion (bot: 64% probability)
-│   │       ├── cbar_tx (bot: 50% probability)
-│   │       └── topimp21 (bot: 57% probability)
-│   │           └── girishpie (bot: 79% probability)
-│   │               └── topimp21 (bot: 57% probability)
-│   │                   └── girishpie (bot: 79% probability)
-│   │                       └── topimp21 (bot: 57% probability)
-│   │                           ├── girishpie (bot: 79% probability)
-│   │                           └── girishpie (bot: 79% probability)
-│   ├── Sau2390_mufc (bot: 39% probability)
-│   ├── SauhardoR (bot: 55% probability)
-│   │   └── SauhardoR (bot: 55% probability)
-│   ├── ShaynHornik (bot: 79% probability)
-│   ├── T3_Kudos (bot: 78% probability)
-│   ├── TheCandleInn (bot: 72% probability)
-│   ├── TheVanSteele (bot: 79% probability)
-│   ├── ThomasLamkin (bot: 79% probability)
-│   ├── VikingoBitcoin1 (bot: 79% probability)
-│   ├── _INITIO_ (bot: 72% probability)
-│   ├── _MrHand_ (bot: 76% probability)
-│   │   ├── Garbldisposure (bot: 70% probability)
-│   │   │   ├── MaitreyaMatty (bot: 65% probability)
-│   │   │   │   └── MaitreyaMatty (bot: 65% probability)
-│   │   │   └── momau5 (bot: 36% probability)
-│   │   ├── WhitePo01714045 (bot: 79% probability)
+│   ├── Jcrux92
+│   ├── JohnNaranjov
+│   ├── JohnRobertus
+│   ├── LfcBadges
+│   ├── ManFreedomScott
+│   ├── MariusC_HODL
+│   ├── Mejai_
+│   ├── MrSaint__
+│   ├── NoLoganHere
+│   ├── NwaigboOdera
+│   ├── PN0nbinary
+│   ├── PampDamp
+│   ├── PatricRc
+│   ├── Pexxxys
+│   ├── Ph93nguyen
+│   ├── PjotrP1
+│   ├── RealKaiser_Soze
+│   ├── Reality34710364
+│   ├── Riptide360
+│   ├── RobertoBirquet
+│   ├── RyanRallyOh
+│   ├── SaMorteza
+│   │   └── girishpie
+│   │       ├── SaMorteza
+│   │       │   ├── attainingalpha1
+│   │       │   ├── girishpie
+│   │       │   └── thisgoesnowhere
+│   │       │       ├── momau5
+│   │       │       └── topimp21
+│   │       │           └── topimp21
+│   │       │               └── topimp21
+│   │       │                   └── topimp21
+│   │       ├── bitcoinistruth
+│   │       │   └── momau5
+│   │       │       ├── bitcoinistruth
+│   │       │       │   └── momau5
+│   │       │       │       └── bitcoinistruth
+│   │       │       │           └── momau5
+│   │       │       │               └── bitcoinistruth
+│   │       │       │                   └── momau5
+│   │       │       └── lo_commotion
+│   │       │           └── lo_commotion
+│   │       ├── cbar_tx
+│   │       └── topimp21
+│   │           └── girishpie
+│   │               └── topimp21
+│   │                   └── girishpie
+│   │                       └── topimp21
+│   │                           ├── girishpie
+│   │                           └── girishpie
+│   ├── Sau2390_mufc
+│   ├── SauhardoR
+│   │   └── SauhardoR
+│   ├── ShaynHornik
+│   ├── T3_Kudos
+│   ├── TheCandleInn
+│   ├── TheVanSteele
+│   ├── ThomasLamkin
+│   ├── VikingoBitcoin1
+│   ├── _INITIO_
+│   ├── _MrHand_
+│   │   ├── Garbldisposure
+│   │   │   ├── MaitreyaMatty
+│   │   │   │   └── MaitreyaMatty
+│   │   │   └── momau5
+│   │   ├── WhitePo01714045
 │   │   ├── antoine_leveau (bot: 92% probability)
-│   │   ├── cyb3rcrypt (bot: 62% probability)
-│   │   │   ├── 0707Lucky7s (bot: 50% probability)
-│   │   │   └── a_roob_ (bot: 27% probability)
-│   │   └── momau5 (bot: 36% probability)
-│   ├── __jordan9 (bot: 79% probability)
-│   │   ├── ShibleyJulian (bot: 47% probability)
-│   │   ├── WillBlakeSing (bot: 69% probability)
-│   │   └── tripleths (bot: 72% probability)
-│   ├── abadboy47373489 (bot: 30% probability)
-│   ├── aprender_bolsa (bot: 36% probability)
-│   ├── billycraig (bot: 27% probability)
-│   ├── biroedonker (bot: 34% probability)
+│   │   ├── cyb3rcrypt
+│   │   │   ├── 0707Lucky7s
+│   │   │   └── a_roob_
+│   │   └── momau5
+│   ├── __jordan9
+│   │   ├── ShibleyJulian
+│   │   ├── WillBlakeSing
+│   │   └── tripleths
+│   ├── abadboy47373489
+│   ├── aprender_bolsa
+│   ├── billycraig
+│   ├── biroedonker
 │   ├── countinbitcoin
-│   ├── crymnem (bot: 39% probability)
-│   ├── cyb3rcrypt (bot: 62% probability)
-│   ├── floreathaiku (bot: 36% probability)
-│   ├── geekmdtravis (bot: 52% probability)
-│   ├── greenspand (bot: 25% probability)
-│   ├── greenspand (bot: 25% probability)
-│   ├── gunscheesebeer (bot: 64% probability)
-│   ├── hemshah011 (bot: 79% probability)
-│   ├── herc85171303 (bot: 27% probability)
-│   ├── jamesbuck56556 (bot: 78% probability)
-│   ├── jen_gemini (bot: 30% probability)
-│   ├── jleophodl (bot: 60% probability)
-│   ├── leudiusH (bot: 47% probability)
-│   ├── mateo_calcagno (bot: 78% probability)
-│   ├── mathew5502 (bot: 47% probability)
-│   ├── mrniceguy171 (bot: 49% probability)
-│   ├── nathanjsweet (bot: 77% probability)
-│   ├── niclick (bot: 55% probability)
-│   ├── not_imitating (bot: 77% probability)
-│   ├── not_imitating (bot: 77% probability)
+│   ├── crymnem
+│   ├── cyb3rcrypt
+│   ├── floreathaiku
+│   ├── geekmdtravis
+│   ├── greenspand
+│   ├── greenspand
+│   ├── gunscheesebeer
+│   ├── hemshah011
+│   ├── herc85171303
+│   ├── jamesbuck56556
+│   ├── jen_gemini
+│   ├── jleophodl
+│   ├── leudiusH
+│   ├── mateo_calcagno
+│   ├── mathew5502
+│   ├── mrniceguy171
+│   ├── nathanjsweet
+│   ├── niclick
+│   ├── not_imitating
+│   ├── not_imitating
 │   ├── ps1dr3x
-│   ├── r0drigocesar (bot: 80% probability)
-│   ├── robvsnature (bot: 50% probability)
-│   ├── scmonjaraz (bot: 27% probability)
-│   ├── softerthansteel (bot: 80% probability)
-│   ├── thejazzhans (bot: 80% probability)
-│   ├── thestreamsavior (bot: 79% probability)
-│   ├── whitecarz (bot: 44% probability)
-│   └── yujia2020 (bot: 36% probability)
-├── juanantonio488 (bot: 41% probability)
-├── juanmeta (bot: 43% probability)
-├── justusdenied (bot: 67% probability)
-├── k1raa__ (bot: 79% probability)
-├── katari_one (bot: 55% probability)
+│   ├── r0drigocesar
+│   ├── robvsnature
+│   ├── scmonjaraz
+│   ├── softerthansteel
+│   ├── thejazzhans
+│   ├── thestreamsavior
+│   ├── whitecarz
+│   └── yujia2020
+├── juanantonio488
+├── juanmeta
+├── justusdenied
+├── k1raa__
+├── katari_one
 ├── ken_iloka
-├── kenobi_d (bot: 39% probability)
-├── khaled_elaish (bot: 65% probability)
-├── kiranjaimon (bot: 47% probability)
-├── kisho911 (bot: 36% probability)
-├── kishuinuworld (bot: 79% probability)
-├── kiyfani (bot: 49% probability)
-├── km321 (bot: 25% probability)
-├── knowbitcoin (bot: 25% probability)
-├── kofijunr (bot: 79% probability)
-├── krzrad (bot: 25% probability)
-├── kuli_pupunu (bot: 30% probability)
-├── laohanme (bot: 71% probability)
-├── larsdobos (bot: 43% probability)
-├── leproducteurs (bot: 47% probability)
-├── leudiusH (bot: 47% probability)
-├── light2909 (bot: 75% probability)
-├── lighthouse017 (bot: 79% probability)
-├── lingzhong_ (bot: 25% probability)
-├── lipholo_lipholo (bot: 69% probability)
-├── listener_crypto (bot: 78% probability)
-├── listenxyz (bot: 73% probability)
-├── lukemayernik (bot: 30% probability)
-│   └── Bernard77661198 (bot: 65% probability)
-├── lukianbel (bot: 30% probability)
-├── m1l0s_sw (bot: 52% probability)
-├── m3g4h4x (bot: 76% probability)
-├── maciejsoltysiak (bot: 25% probability)
-├── marangudakis (bot: 39% probability)
-├── martin_deville (bot: 44% probability)
-├── mattowheeler (bot: 25% probability)
-├── me_cashback (bot: 77% probability)
-├── medinahodl (bot: 70% probability)
-├── messi48859 (bot: 72% probability)
-├── miamirockssmk (bot: 79% probability)
-├── michael_saylor (bot: 64% probability)
-│   ├── 20will_i_am11 (bot: 55% probability)
-│   ├── 3xWolverine (bot: 47% probability)
-│   │   ├── 3xWolverine (bot: 47% probability)
-│   │   └── repheel (bot: 23% probability)
-│   ├── AllanJavierMeji (bot: 79% probability)
-│   ├── BullenDP (bot: 27% probability)
-│   ├── Chai7b (bot: 50% probability)
-│   ├── CollinJPlummer (bot: 67% probability)
-│   ├── CryptoCP2 (bot: 71% probability)
-│   ├── CryptoCP2 (bot: 71% probability)
-│   ├── DepartmentOfBTC (bot: 79% probability)
-│   ├── FDaibes (bot: 47% probability)
-│   ├── FIxRthshld (bot: 79% probability)
-│   ├── FrankRu59710739 (bot: 75% probability)
-│   ├── GGDiversificat1 (bot: 78% probability)
-│   ├── GetWiredOKC (bot: 41% probability)
-│   │   └── GetWiredOKC (bot: 41% probability)
-│   ├── GioFulghi (bot: 76% probability)
-│   ├── GloriousNipples (bot: 52% probability)
-│   ├── HodlSimply (bot: 79% probability)
-│   │   └── Bohemia11766013 (bot: 79% probability)
-│   │       └── HodlSimply (bot: 79% probability)
+├── kenobi_d
+├── khaled_elaish
+├── kiranjaimon
+├── kisho911
+├── kishuinuworld
+├── kiyfani
+├── km321
+├── knowbitcoin
+├── kofijunr
+├── krzrad
+├── kuli_pupunu
+├── laohanme
+├── larsdobos
+├── leproducteurs
+├── leudiusH
+├── light2909
+├── lighthouse017
+├── lingzhong_
+├── lipholo_lipholo
+├── listener_crypto
+├── listenxyz
+├── lukemayernik
+│   └── Bernard77661198
+├── lukianbel
+├── m1l0s_sw
+├── m3g4h4x
+├── maciejsoltysiak
+├── marangudakis
+├── martin_deville
+├── mattowheeler
+├── me_cashback
+├── medinahodl
+├── messi48859
+├── miamirockssmk
+├── michael_saylor
+│   ├── 20will_i_am11
+│   ├── 3xWolverine
+│   │   ├── 3xWolverine
+│   │   └── repheel
+│   ├── AllanJavierMeji
+│   ├── BullenDP
+│   ├── Chai7b
+│   ├── CollinJPlummer
+│   ├── CryptoCP2
+│   ├── CryptoCP2
+│   ├── DepartmentOfBTC
+│   ├── FDaibes
+│   ├── FIxRthshld
+│   ├── FrankRu59710739
+│   ├── GGDiversificat1
+│   ├── GetWiredOKC
+│   │   └── GetWiredOKC
+│   ├── GioFulghi
+│   ├── GloriousNipples
+│   ├── HodlSimply
+│   │   └── Bohemia11766013
+│   │       └── HodlSimply
 │   ├── Jamalito_ (bot: 82% probability)
-│   ├── Jaukkr13 (bot: 30% probability)
+│   ├── Jaukkr13
 │   ├── Jayde0077 (bot: 83% probability)
-│   ├── KING__BITCOIN (bot: 76% probability)
-│   ├── Kal17419878 (bot: 78% probability)
-│   ├── KhalidAlTurki (bot: 57% probability)
-│   ├── KrtlIdris (bot: 77% probability)
-│   ├── Pentox2 (bot: 65% probability)
+│   ├── KING__BITCOIN
+│   ├── Kal17419878
+│   ├── KhalidAlTurki
+│   ├── KrtlIdris
+│   ├── Pentox2
 │   ├── PhotoLawn (bot: 84% probability)
-│   ├── Purbaru (bot: 76% probability)
+│   ├── Purbaru
 │   ├── RahimUd26933642 (bot: 89% probability)
-│   ├── Ritu_Agarawal (bot: 22% probability)
+│   ├── Ritu_Agarawal
 │   ├── RocketM74917252 (bot: 81% probability)
-│   ├── StevetSteves (bot: 36% probability)
+│   ├── StevetSteves
 │   │   ├── CsokaDan (bot: 82% probability)
-│   │   └── matheuscidral2 (bot: 73% probability)
-│   ├── WTLD (bot: 70% probability)
-│   ├── belair6909 (bot: 25% probability)
-│   ├── cardanolifeline (bot: 79% probability)
+│   │   └── matheuscidral2
+│   ├── WTLD
+│   ├── belair6909
+│   ├── cardanolifeline
 │   ├── cardboardboxers (bot: 83% probability)
-│   │   └── BTCEllis (bot: 25% probability)
-│   ├── cryptodinamite (bot: 44% probability)
-│   ├── dolomiteHEX (bot: 69% probability)
-│   ├── dolomiteHEX (bot: 69% probability)
-│   ├── donaeisrequiem1 (bot: 55% probability)
-│   ├── ehteshamdesai (bot: 73% probability)
-│   │   └── Strange97076548 (bot: 79% probability)
-│   ├── elzuaren (bot: 47% probability)
-│   ├── guido_demarco (bot: 49% probability)
-│   ├── iamAnonym075 (bot: 79% probability)
-│   ├── ignorantNFT (bot: 44% probability)
-│   ├── jofromko (bot: 79% probability)
-│   ├── kofijunr (bot: 79% probability)
+│   │   └── BTCEllis
+│   ├── cryptodinamite
+│   ├── dolomiteHEX
+│   ├── dolomiteHEX
+│   ├── donaeisrequiem1
+│   ├── ehteshamdesai
+│   │   └── Strange97076548
+│   ├── elzuaren
+│   ├── guido_demarco
+│   ├── iamAnonym075
+│   ├── ignorantNFT
+│   ├── jofromko
+│   ├── kofijunr
 │   ├── lucasttds (bot: 89% probability)
-│   ├── murr3katt (bot: 36% probability)
+│   ├── murr3katt
 │   ├── naadSweDVMPSpQO (bot: 91% probability)
-│   ├── pmtreacy10 (bot: 22% probability)
-│   ├── ptj_official1 (bot: 78% probability)
-│   ├── rezashoghi2 (bot: 78% probability)
-│   ├── roohioo (bot: 47% probability)
-│   ├── sheeap3 (bot: 79% probability)
-│   └── yogi_bitcoin (bot: 25% probability)
-├── mike_henn3ssy (bot: 36% probability)
-├── mikealfred (bot: 55% probability)
-│   ├── DzambhalaHODL (bot: 25% probability)
-│   └── philbak1 (bot: 25% probability)
+│   ├── pmtreacy10
+│   ├── ptj_official1
+│   ├── rezashoghi2
+│   ├── roohioo
+│   ├── sheeap3
+│   └── yogi_bitcoin
+├── mike_henn3ssy
+├── mikealfred
+│   ├── DzambhalaHODL
+│   └── philbak1
 ├── mikejon37277441 (bot: 90% probability)
-├── mikepeeters33 (bot: 79% probability)
-├── mikp666 (bot: 78% probability)
-├── mjortiz1980 (bot: 79% probability)
-├── mkr7o7 (bot: 39% probability)
-├── mmt_lvt (bot: 41% probability)
-├── moeopus (bot: 44% probability)
-├── mopo680 (bot: 76% probability)
-├── motshewu (bot: 79% probability)
-├── mrk4m1 (bot: 46% probability)
-├── my_jyarz (bot: 71% probability)
-├── mysticseers (bot: 50% probability)
-├── nabq5272B (bot: 77% probability)
-├── nareshkharecha (bot: 25% probability)
-├── neurospace_ (bot: 79% probability)
-├── newlolmit (bot: 78% probability)
-├── nikita22652313 (bot: 79% probability)
-├── nixor01 (bot: 30% probability)
+├── mikepeeters33
+├── mikp666
+├── mjortiz1980
+├── mkr7o7
+├── mmt_lvt
+├── moeopus
+├── mopo680
+├── motshewu
+├── mrk4m1
+├── my_jyarz
+├── mysticseers
+├── nabq5272B
+├── nareshkharecha
+├── neurospace_
+├── newlolmit
+├── nikita22652313
+├── nixor01
 ├── nolanjamesjams (bot: 82% probability)
-├── nomasnomorelive (bot: 36% probability)
-├── notADogOrCat (bot: 50% probability)
-│   └── democracymemer (bot: 39% probability)
-├── not_imitating (bot: 77% probability)
-├── notallowedonfb (bot: 79% probability)
-├── notsoocurious (bot: 62% probability)
-├── nponette (bot: 41% probability)
-├── ntembekoS (bot: 47% probability)
-├── octal (bot: 27% probability)
-├── oklahodl1 (bot: 25% probability)
-├── om471987 (bot: 22% probability)
-├── omg_keynes (bot: 22% probability)
-├── opraz_ (bot: 43% probability)
-├── otu_uchechi (bot: 80% probability)
-├── paalsky (bot: 55% probability)
-│   └── proofofsatoshi (bot: 33% probability)
-├── paalsky (bot: 55% probability)
-├── pelek90 (bot: 74% probability)
+├── nomasnomorelive
+├── notADogOrCat
+│   └── democracymemer
+├── not_imitating
+├── notallowedonfb
+├── notsoocurious
+├── nponette
+├── ntembekoS
+├── octal
+├── oklahodl1
+├── om471987
+├── omg_keynes
+├── opraz_
+├── otu_uchechi
+├── paalsky
+│   └── proofofsatoshi
+├── paalsky
+├── pelek90
 ├── pete_mccarthy (bot: 85% probability)
-├── petrmisan (bot: 27% probability)
+├── petrmisan
 ├── philip_breit (bot: 83% probability)
-├── pjsstator (bot: 47% probability)
-├── pk_chirrup (bot: 76% probability)
-├── prince_ntoni (bot: 22% probability)
-├── qubit1312 (bot: 27% probability)
-├── qwerasadf (bot: 75% probability)
-├── r0b0tspider (bot: 76% probability)
-├── ralphoffenhouse (bot: 25% probability)
-│   └── In_California_ (bot: 25% probability)
+├── pjsstator
+├── pk_chirrup
+├── prince_ntoni
+├── qubit1312
+├── qwerasadf
+├── r0b0tspider
+├── ralphoffenhouse
+│   └── In_California_
 ├── ramon__polo (bot: 82% probability)
-├── ratestrading (bot: 25% probability)
-├── rb11520 (bot: 62% probability)
-├── realDavidBernat (bot: 36% probability)
-├── realHardEight (bot: 77% probability)
-├── realcoinmaster_ (bot: 78% probability)
-├── reckvinci (bot: 39% probability)
-├── resistance1960 (bot: 79% probability)
-├── richard_ayres (bot: 77% probability)
-├── rick_swords (bot: 30% probability)
-├── rickbannermusic (bot: 76% probability)
-├── robolieus (bot: 76% probability)
-│   ├── Jordan24x7 (bot: 22% probability)
-│   ├── ceo_tweeter (bot: 62% probability)
-│   ├── kofijunr (bot: 79% probability)
-│   ├── plstelzner (bot: 79% probability)
+├── ratestrading
+├── rb11520
+├── realDavidBernat
+├── realHardEight
+├── realcoinmaster_
+├── reckvinci
+├── resistance1960
+├── richard_ayres
+├── rick_swords
+├── rickbannermusic
+├── robolieus
+│   ├── Jordan24x7
+│   ├── ceo_tweeter
+│   ├── kofijunr
+│   ├── plstelzner
 │   │   ├── BeMykola (bot: 91% probability)
-│   │   └── robolieus (bot: 76% probability)
-│   └── woketopiansa (bot: 78% probability)
-│       └── hectormaluenda_ (bot: 27% probability)
-│           └── robolieus (bot: 76% probability)
-├── robvsnature (bot: 50% probability)
-├── rovespur (bot: 36% probability)
-├── rsmeman (bot: 30% probability)
-├── rustam99167250 (bot: 55% probability)
-├── ruzhdisulejmani (bot: 27% probability)
-├── ryan88106164 (bot: 79% probability)
-├── saif_tweets31 (bot: 41% probability)
-├── sakuramiyawake (bot: 60% probability)
-├── samuelcorradi (bot: 57% probability)
-├── sanwomi (bot: 36% probability)
-├── sarbjeetjohal (bot: 80% probability)
-├── sarbjeetjohal (bot: 80% probability)
-├── sasalala1000 (bot: 70% probability)
-├── sathoarder (bot: 36% probability)
-├── satoshinakatomi (bot: 79% probability)
-├── satstakin (bot: 64% probability)
-├── scott_stelpflug (bot: 27% probability)
-├── scylla440X (bot: 77% probability)
+│   │   └── robolieus
+│   └── woketopiansa
+│       └── hectormaluenda_
+│           └── robolieus
+├── robvsnature
+├── rovespur
+├── rsmeman
+├── rustam99167250
+├── ruzhdisulejmani
+├── ryan88106164
+├── saif_tweets31
+├── sakuramiyawake
+├── samuelcorradi
+├── sanwomi
+├── sarbjeetjohal
+├── sarbjeetjohal
+├── sasalala1000
+├── sathoarder
+├── satoshinakatomi
+├── satstakin
+├── scott_stelpflug
+├── scylla440X
 ├── sennayzerihun
-├── sgtesco (bot: 79% probability)
-├── shakilmith (bot: 44% probability)
-├── sheikki (bot: 47% probability)
-├── shiv_am_art (bot: 79% probability)
-├── simonmontford (bot: 41% probability)
-├── skyfall1425 (bot: 62% probability)
+├── sgtesco
+├── shakilmith
+├── sheikki
+├── shiv_am_art
+├── simonmontford
+├── skyfall1425
 ├── smoltort (bot: 83% probability)
-├── sngadty (bot: 52% probability)
-├── snjth1 (bot: 30% probability)
-│   └── katznocap (bot: 25% probability)
-├── softchubbymofo (bot: 36% probability)
-├── somaditya_eth (bot: 39% probability)
-├── sortition1337 (bot: 62% probability)
-│   ├── CoshieSoldier (bot: 80% probability)
-│   ├── Crypt0Tendies (bot: 79% probability)
-│   │   └── CoshieSoldier (bot: 80% probability)
+├── sngadty
+├── snjth1
+│   └── katznocap
+├── softchubbymofo
+├── somaditya_eth
+├── sortition1337
+│   ├── CoshieSoldier
+│   ├── Crypt0Tendies
+│   │   └── CoshieSoldier
 │   └── viDZible (bot: 83% probability)
 ├── souzaxmay (bot: 85% probability)
-├── srushtiuniverse (bot: 69% probability)
-│   └── akbirthko (bot: 33% probability)
-├── stargate69 (bot: 77% probability)
-├── steakandcrypto (bot: 79% probability)
-├── stevelambo (bot: 76% probability)
-├── stuartbill10 (bot: 73% probability)
-├── stuartbill10 (bot: 73% probability)
-├── stylishandy (bot: 27% probability)
-├── sunnychristy (bot: 71% probability)
-├── supersonicnemoo (bot: 76% probability)
-├── supesumonki (bot: 47% probability)
-├── svd415 (bot: 22% probability)
-├── swaaalla (bot: 44% probability)
-├── swarnlataaa (bot: 77% probability)
-├── sword4477 (bot: 79% probability)
-├── systemic_bliss (bot: 47% probability)
-├── tangojoshua (bot: 30% probability)
-│   └── russaplin22 (bot: 78% probability)
-│       └── tangojoshua (bot: 30% probability)
-├── taskts8 (bot: 55% probability)
-├── tbot39371153 (bot: 66% probability)
-├── techiealex2 (bot: 79% probability)
-├── tfoale (bot: 77% probability)
-├── thats_bonerific (bot: 50% probability)
-├── the_panday (bot: 44% probability)
-├── thecoinsguy (bot: 27% probability)
-├── theexpertmoney (bot: 76% probability)
-├── thescot33 (bot: 52% probability)
-├── thesksamim (bot: 25% probability)
-├── timelessdev (bot: 22% probability)
-├── timothy_skim (bot: 41% probability)
-├── toku2288 (bot: 47% probability)
-├── tom4bs (bot: 22% probability)
-│   └── TrudeauLeft (bot: 57% probability)
-├── torahbitcoin (bot: 79% probability)
-├── toutontoast (bot: 60% probability)
-├── treegod_ (bot: 33% probability)
-├── treeshateorcs2 (bot: 78% probability)
-├── twilliamsb (bot: 67% probability)
-├── twinkisailer (bot: 36% probability)
-├── tylerlinklevoss (bot: 27% probability)
-│   └── rkmueller2 (bot: 79% probability)
-│       └── tylerlinklevoss (bot: 27% probability)
-├── uprightout (bot: 67% probability)
-├── v4vandettav (bot: 75% probability)
-├── v_chanthafeua (bot: 79% probability)
-├── vmupadhye (bot: 67% probability)
-├── wearegrow (bot: 41% probability)
-├── webmat (bot: 27% probability)
-├── webmat (bot: 27% probability)
-├── whackmNstackm (bot: 22% probability)
-├── whips83 (bot: 76% probability)
-├── williamevanl (bot: 62% probability)
-├── winkalink2 (bot: 79% probability)
-├── wise_origin (bot: 39% probability)
+├── srushtiuniverse
+│   └── akbirthko
+├── stargate69
+├── steakandcrypto
+├── stevelambo
+├── stuartbill10
+├── stuartbill10
+├── stylishandy
+├── sunnychristy
+├── supersonicnemoo
+├── supesumonki
+├── svd415
+├── swaaalla
+├── swarnlataaa
+├── sword4477
+├── systemic_bliss
+├── tangojoshua
+│   └── russaplin22
+│       └── tangojoshua
+├── taskts8
+├── tbot39371153
+├── techiealex2
+├── tfoale
+├── thats_bonerific
+├── the_panday
+├── thecoinsguy
+├── theexpertmoney
+├── thescot33
+├── thesksamim
+├── timelessdev
+├── timothy_skim
+├── toku2288
+├── tom4bs
+│   └── TrudeauLeft
+├── torahbitcoin
+├── toutontoast
+├── treegod_
+├── treeshateorcs2
+├── twilliamsb
+├── twinkisailer
+├── tylerlinklevoss
+│   └── rkmueller2
+│       └── tylerlinklevoss
+├── uprightout
+├── v4vandettav
+├── v_chanthafeua
+├── vmupadhye
+├── wearegrow
+├── webmat
+├── webmat
+├── whackmNstackm
+├── whips83
+├── williamevanl
+├── winkalink2
+├── wise_origin
 ├── wktong2012 (bot: 82% probability)
-│   └── ApolloNano (bot: 79% probability)
-├── xPMLx (bot: 30% probability)
-├── xcsler (bot: 60% probability)
-├── xcsler (bot: 60% probability)
-├── xtianlazer (bot: 62% probability)
-├── xyz84512469 (bot: 79% probability)
-├── yacinehmito (bot: 22% probability)
-├── yaronco77347085 (bot: 79% probability)
-├── yellowfln (bot: 76% probability)
-├── yolomofo101 (bot: 33% probability)
-└── zughayyar (bot: 23% probability)
+│   └── ApolloNano
+├── xPMLx
+├── xcsler
+├── xcsler
+├── xtianlazer
+├── xyz84512469
+├── yacinehmito
+├── yaronco77347085
+├── yellowfln
+├── yolomofo101
+└── zughayyar
