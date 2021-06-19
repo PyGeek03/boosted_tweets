@@ -13,11 +13,11 @@ client1 = twarc.Twarc(consumer_key, consumer_secret,
                       access_token, access_token_secret)
 
 location_codes = {
-    'Global': 1, 
+    'Global': 1,
     'US': 23424977,
-    'AU': 60370
+    'Sydney': 1105779
 }
-chosen_location = 'Global'
+chosen_location = 'US'
 trends = client1.trends_place(location_codes[chosen_location])[0]["trends"]
 for i in range(len(trends)):
     if trends[i]["tweet_volume"] is None:
