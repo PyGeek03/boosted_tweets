@@ -84861,6 +84861,59 @@
             }
         }
     },
+    "427089628": {
+        "cap": {
+            "english": 0.4197222421546159,
+            "universal": 0.7334998320027682
+        },
+        "display_scores": {
+            "english": {
+                "astroturf": 0.2,
+                "fake_follower": 0.2,
+                "financial": 0.0,
+                "other": 0.8,
+                "overall": 0.4,
+                "self_declared": 0.0,
+                "spammer": 0.0
+            },
+            "universal": {
+                "astroturf": 0.3,
+                "fake_follower": 0.2,
+                "financial": 0.0,
+                "other": 1.8,
+                "overall": 1.1,
+                "self_declared": 0.0,
+                "spammer": 0.0
+            }
+        },
+        "raw_scores": {
+            "english": {
+                "astroturf": 0.05,
+                "fake_follower": 0.03,
+                "financial": 0.0,
+                "other": 0.16,
+                "overall": 0.08,
+                "self_declared": 0.01,
+                "spammer": 0.0
+            },
+            "universal": {
+                "astroturf": 0.06,
+                "fake_follower": 0.04,
+                "financial": 0.0,
+                "other": 0.36,
+                "overall": 0.22,
+                "self_declared": 0.01,
+                "spammer": 0.0
+            }
+        },
+        "user": {
+            "majority_lang": "en",
+            "user_data": {
+                "id_str": "427089628",
+                "screen_name": "lexfridman"
+            }
+        }
+    },
     "427435692": {
         "cap": {
             "english": 0.2520419704315795,
