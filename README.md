@@ -20,10 +20,12 @@ RAPIDAPI_KEY={Rapid API key, to access Botometer API}
 ```
 
 ## Workflow:
-1. Find a viral tweets, possibly by finding trending topics (using `get_trends_twarc1.py`) and then searching for related tweets (using `get_top_trending_tweets_twarc1.py`)
-2. Get the whole conversation (retweets and replies) associated with this tweet (using `get_conversation_twarc2.py`). This conversation will be saved to a JSON file
-3. Use Botometer API to check if participating accounts in this conversation are bots (using `use_botometer.py` and the above JSON file)
-4. Visualize the conversation (using `visualize_conversation_tree.py` and the above JSON file), as a tree whose root is the author of the original tweet and other nodes are the authors of retweets and replies. Accounts that might be bot will be tagged with bot probability score. Sibling nodes (children of the same parent node) are ordered according to their tweet's timestamp.
+1. Find a viral tweets, possibly by finding trending topics (using `get_trends_twarc1.py`) and then searching for related tweets, or finding popular tweets for the highest trending topic (using `get_top_trending_tweets_twarc1.py`)
+2. Get the whole conversation (retweets and replies) associated with this tweet (using `get_conversation_twarc2.py`). This conversation will be saved to a .json file
+3. Use Botometer API to check if participating accounts in this conversation are bots (using `use_botometer.py` and the above .json file)
+4. Visualize the conversation (using `visualize_conversation_tree.py` and the above .json file), as a tree whose root is the author of the original tweet and other nodes are the authors of retweets and replies. Accounts that might be bot will be tagged with bot probability score. Sibling nodes (children of the same parent node) are ordered according to their tweet's timestamp. The output will be saved to a .txt file
+
+Note: all output files are saved under the `outputs/` directory
 
 ## Dependencies:
 - botometer==1.6
